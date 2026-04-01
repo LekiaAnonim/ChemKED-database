@@ -49,25 +49,22 @@ jobs:
   # 2. Validate each ChemKED file against the PyKED schema
   # -------------------------------------------------------------------
   pyked-validation:
-    name: PyKED Schema Validation
+    name: PyKED Schema Validation Dispatch
     needs: detect-changes
     if: needs.detect-changes.outputs.has_changes == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install PyKED
-        run: |
-          pip install pyked pyyaml cerberus pint habanero
-
-      - name: Run PyKED schema validation
+      - name: Dispatch PyKED validation to kineticmodelssite
         env:
           CHANGED_FILES: ${{ needs.detect-changes.outputs.yaml_files }}
+          DISPATCH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          PYTECK_REPO_OWNER: ${{ vars.PYTECK_REPO_OWNER || github.repository_owner }}
+          PYTECK_REPO_NAME: ${{ vars.PYTECK_REPO_NAME || 'kineticmodelssite' }}
+          PR_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: python scripts/validate_chemked.py
 
   # -------------------------------------------------------------------
@@ -95,11 +92,13 @@ jobs:
         run: python scripts/check_orcid.py
 
   # -------------------------------------------------------------------
-  # 4. (Optional) PyTeCK simulation smoke-test
-  #    Only runs when the PR has the 'run-pyteck' label
+  # 4. (Optional) PyTeCK simulation — dispatch to kineticmodelssite
+  #    Only runs when the PR has the 'run-pyteck' label.
+  #    Fires a repository_dispatch; no Cantera/PyTeCK install needed here.
+  #    Results are posted back to the PR as a check-run by ci_simulate.
   # -------------------------------------------------------------------
   pyteck-validation:
-    name: PyTeCK Simulation Validation
+    name: PyTeCK Simulation Dispatch
     needs: detect-changes
     if: >-
       needs.detect-changes.outputs.has_changes == 'true'
@@ -113,13 +112,15 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Cantera & PyTeCK
-        run: |
-          pip install cantera pyteck pyked pyyaml numpy scipy
-
-      - name: Run PyTeCK simulation validation
+      - name: Dispatch PyTeCK simulation to kineticmodelssite
         env:
           CHANGED_FILES: ${{ needs.detect-changes.outputs.yaml_files }}
+          DISPATCH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          PYTECK_REPO_OWNER: ${{ vars.PYTECK_REPO_OWNER || github.repository_owner }}
+          PYTECK_REPO_NAME: ${{ vars.PYTECK_REPO_NAME || 'kineticmodelssite' }}
+          PR_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: python scripts/validate_pyteck.py
 
   # -------------------------------------------------------------------
