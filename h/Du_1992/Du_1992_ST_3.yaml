@@ -1,0 +1,106 @@
+---
+file-authors:
+  - name: Chemical Kinetics Laboratory, Institute of Chemistry, ELTE, Budapest, Hungary
+  - name: Prosper Lekia
+    ORCID: 0009-0007-2428-0755
+file-version: 0
+chemked-version: 0.4.1
+reference:
+  doi: 10.1063/1.462194
+  authors:
+    - name: Hong Du
+    - name: Jan P. Hessler
+  journal: The Journal of Chemical Physics
+  year: 1992
+  volume: 96
+  pages: 1077-1092
+  detail: Converted from ReSpecTh XML file k00000003.xml
+experiment-type: rate coefficient
+reaction: H + O2 = OH + O
+bulk-gas: Ar
+method: Shock tube, OH flash-absorption
+apparatus:
+  kind: shock tube
+comments:
+  - Calculated data overwritten by original ones from Table II, and uncertainty data
+    also recorded
+common-properties: {}
+datapoints:
+  - temperature:
+      - 2050 K
+      - uncertainty-type: absolute
+        uncertainty: 13 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 4.21e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2124 K
+      - uncertainty-type: absolute
+        uncertainty: 14 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 4.51e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2294 K
+      - uncertainty-type: absolute
+        uncertainty: 15 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 6.87e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2592 K
+      - uncertainty-type: absolute
+        uncertainty: 18 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 9.83e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2791 K
+      - uncertainty-type: absolute
+        uncertainty: 21 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 1.23e-11 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2827 K
+      - uncertainty-type: absolute
+        uncertainty: 22 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 1.12e-11 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2946 K
+      - uncertainty-type: absolute
+        uncertainty: 23 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 1.46e-11 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2179 K
+      - uncertainty-type: absolute
+        uncertainty: 12 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 5.39e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2481 K
+      - uncertainty-type: absolute
+        uncertainty: 14 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 7.03e-12 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2815 K
+      - uncertainty-type: absolute
+        uncertainty: 18 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 1.29e-11 molecule**-1 * cm3 * s**-1
+  - temperature:
+      - 2899 K
+      - uncertainty-type: absolute
+        uncertainty: 19 K
+        uncertainty-sourcetype: reported
+    rate-coefficient:
+      - 1.44e-11 molecule**-1 * cm3 * s**-1
+...
