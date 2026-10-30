@@ -54,7 +54,7 @@ datapoints:
           SMILES: '[Ar]'
           amount:
             - 4.4165931E-1
-        - species-name: NO
+        - species-name: "NO"
           SMILES: 'O=[N]'
           amount:
             - 9.9999069E-5
