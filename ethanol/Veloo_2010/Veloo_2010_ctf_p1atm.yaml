@@ -172,9 +172,9 @@ datapoints:
           amount:
             - 0.729192
     laminar-burning-velocity:
-      - 50 cm/s
+      - 50.00 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1.6 cm/s
+        uncertainty: 1.60 cm/s
         uncertainty-sourcetype: digitized
         evaluated-standard-deviation: 1.93 cm/s
         evaluated-standard-deviation-type: absolute
@@ -224,7 +224,7 @@ datapoints:
           amount:
             - 0.719908
     laminar-burning-velocity:
-      - 33.3 cm/s
+      - 33.30 cm/s
       - uncertainty-type: absolute
         uncertainty: 2.66 cm/s
         uncertainty-sourcetype: digitized

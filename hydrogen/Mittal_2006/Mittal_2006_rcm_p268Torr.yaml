@@ -50,7 +50,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature:
-      - 297 K
+      - 297.0 K
     pressure:
       - 268.5 Torr
     time-histories:

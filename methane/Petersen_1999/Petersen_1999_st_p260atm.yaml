@@ -42,7 +42,7 @@ common-properties:
     type: d/dt min extrapolated
 datapoints:
   - temperature:
-      - 1302 K
+      - 1302.0 K
     ignition-delay:
       - 53.55 us
       - evaluated-standard-deviation: '0.1'

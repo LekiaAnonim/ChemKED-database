@@ -11,7 +11,7 @@ reference:
     - name: Zemin Tian
     - name: Feiyu Yang
     - name: Zuohua Huang
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2014
   volume: 28
   pages: 2160-2169
@@ -150,7 +150,7 @@ datapoints:
   - temperature:
       - 1090.2 K
     ignition-delay:
-      - 4853 us
+      - 4853.0 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

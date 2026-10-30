@@ -20,7 +20,7 @@ apparatus:
   facility: ''
 common-properties:
   pressure: &id001
-    - 1 bar
+    - 1.0 bar
   temperature: &id002
     - 298 K
 datapoints:
@@ -41,7 +41,7 @@ datapoints:
             - 0.719908
     laminar-burning-velocity:
       - 18.93 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -66,7 +66,7 @@ datapoints:
             - 0.710858
     laminar-burning-velocity:
       - 28.05 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -91,7 +91,7 @@ datapoints:
             - 0.702032
     laminar-burning-velocity:
       - 38.19 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -116,12 +116,12 @@ datapoints:
             - 0.693423
     laminar-burning-velocity:
       - 46.06 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -140,8 +140,8 @@ datapoints:
           amount:
             - 0.685023
     laminar-burning-velocity:
-      - 49.6 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - 49.60 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -166,7 +166,7 @@ datapoints:
             - 0.676823
     laminar-burning-velocity:
       - 48.34 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -191,7 +191,7 @@ datapoints:
             - 0.668818
     laminar-burning-velocity:
       - 43.43 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -216,7 +216,7 @@ datapoints:
             - 0.661
     laminar-burning-velocity:
       - 38.09 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty

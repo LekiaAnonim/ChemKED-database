@@ -60,9 +60,9 @@ datapoints:
   - pressure:
       - 0.72552 atm
     temperature:
-      - 292 K
+      - 292.00 K
     ignition-delay:
-      - 126000 us
+      - 1.26E+05 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -101,9 +101,9 @@ datapoints:
   - pressure:
       - 0.73042 atm
     temperature:
-      - 304 K
+      - 304.00 K
     ignition-delay:
-      - 33400 us
+      - 3.34E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -145,9 +145,9 @@ datapoints:
   - pressure:
       - 0.73035 atm
     temperature:
-      - 313 K
+      - 313.00 K
     ignition-delay:
-      - 17200 us
+      - 1.72E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -188,11 +188,11 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 0.7304 atm
+      - 0.73040 atm
     temperature:
-      - 324 K
+      - 324.00 K
     ignition-delay:
-      - 8560 us
+      - 8.56E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -231,9 +231,9 @@ datapoints:
   - pressure:
       - 0.73957 atm
     temperature:
-      - 333 K
+      - 333.00 K
     ignition-delay:
-      - 7070 us
+      - 7.07E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -276,9 +276,9 @@ datapoints:
   - pressure:
       - 0.74518 atm
     temperature:
-      - 343 K
+      - 343.00 K
     ignition-delay:
-      - 6580 us
+      - 6.58E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -322,9 +322,9 @@ datapoints:
   - pressure:
       - 0.74582 atm
     temperature:
-      - 353 K
+      - 353.00 K
     ignition-delay:
-      - 7130 us
+      - 7.13E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -371,9 +371,9 @@ datapoints:
   - pressure:
       - 0.71272 atm
     temperature:
-      - 363 K
+      - 363.00 K
     ignition-delay:
-      - 10300 us
+      - 1.03E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -412,9 +412,9 @@ datapoints:
   - pressure:
       - 0.71591 atm
     temperature:
-      - 373 K
+      - 373.00 K
     ignition-delay:
-      - 13200 us
+      - 1.32E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -454,9 +454,9 @@ datapoints:
   - pressure:
       - 0.71559 atm
     temperature:
-      - 383 K
+      - 383.00 K
     ignition-delay:
-      - 14700 us
+      - 1.47E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -499,9 +499,9 @@ datapoints:
   - pressure:
       - 0.71422 atm
     temperature:
-      - 398 K
+      - 398.00 K
     ignition-delay:
-      - 13900 us
+      - 1.39E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

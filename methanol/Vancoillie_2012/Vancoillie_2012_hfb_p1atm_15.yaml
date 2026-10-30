@@ -11,7 +11,7 @@ reference:
     - name: E. J. K. Nilsson
     - name: S. Verhelst
     - name: A. A. Konnov
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2012
   volume: 26
   pages: 1557-1564
@@ -48,7 +48,7 @@ datapoints:
             - 0.030718
     laminar-burning-velocity:
       - 19.9 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -77,7 +77,7 @@ datapoints:
             - 0.034529
     laminar-burning-velocity:
       - 27.4 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -106,7 +106,7 @@ datapoints:
             - 0.038216
     laminar-burning-velocity:
       - 34.5 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -134,13 +134,13 @@ datapoints:
           amount:
             - 0.041786
     laminar-burning-velocity:
-      - 40 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - 40.0 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -164,7 +164,7 @@ datapoints:
             - 0.045244
     laminar-burning-velocity:
       - 43.6 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -193,7 +193,7 @@ datapoints:
             - 0.054996
     laminar-burning-velocity:
       - 37.8 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -222,7 +222,7 @@ datapoints:
             - 0.058055
     laminar-burning-velocity:
       - 30.5 cm/s
-      - evaluated-standard-deviation: 2 cm/s
+      - evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

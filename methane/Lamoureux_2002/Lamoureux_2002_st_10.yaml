@@ -43,7 +43,7 @@ datapoints:
   - temperature:
       - 1748 K
     pressure:
-      - 1057000 Pa
+      - 1.057e+006 Pa
     ignition-delay:
       - 46 us
       - evaluated-standard-deviation: '0.294'
@@ -55,7 +55,7 @@ datapoints:
   - temperature:
       - 1669 K
     pressure:
-      - 992000 Pa
+      - 9.920e+005 Pa
     ignition-delay:
       - 77 us
       - evaluated-standard-deviation: '0.294'
@@ -67,7 +67,7 @@ datapoints:
   - temperature:
       - 1693 K
     pressure:
-      - 1004000 Pa
+      - 1.004e+006 Pa
     ignition-delay:
       - 92 us
       - evaluated-standard-deviation: '0.294'
@@ -79,7 +79,7 @@ datapoints:
   - temperature:
       - 1526 K
     pressure:
-      - 844000 Pa
+      - 8.440e+005 Pa
     ignition-delay:
       - 605 us
       - evaluated-standard-deviation: '0.294'

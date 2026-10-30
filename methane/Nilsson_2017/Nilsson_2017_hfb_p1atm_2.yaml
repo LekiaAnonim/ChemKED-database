@@ -49,7 +49,7 @@ datapoints:
           amount:
             - 0.724232
     equivalence-ratio:
-      - 0.8 dimensionless
+      - 0.80 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.01'
         uncertainty-sourcetype: reported
@@ -80,7 +80,7 @@ datapoints:
           amount:
             - 0.716773
     equivalence-ratio:
-      - 0.9 dimensionless
+      - 0.90 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.01'
         uncertainty-sourcetype: reported
@@ -111,7 +111,7 @@ datapoints:
           amount:
             - 0.709466
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.00 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: reported
@@ -142,7 +142,7 @@ datapoints:
           amount:
             - 0.702307
     equivalence-ratio:
-      - 1.1 dimensionless
+      - 1.10 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: reported
@@ -173,7 +173,7 @@ datapoints:
           amount:
             - 0.69529
     equivalence-ratio:
-      - 1.2 dimensionless
+      - 1.20 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: reported
@@ -204,7 +204,7 @@ datapoints:
           amount:
             - 0.688413
     equivalence-ratio:
-      - 1.3 dimensionless
+      - 1.30 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: reported
@@ -235,7 +235,7 @@ datapoints:
           amount:
             - 0.68167
     equivalence-ratio:
-      - 1.4 dimensionless
+      - 1.40 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: reported
@@ -266,7 +266,7 @@ datapoints:
           amount:
             - 0.675058
     equivalence-ratio:
-      - 1.5 dimensionless
+      - 1.50 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.01'
         uncertainty-sourcetype: reported

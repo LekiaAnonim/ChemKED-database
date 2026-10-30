@@ -43,9 +43,9 @@ common-properties:
     amount: 0.05
 datapoints:
   - temperature:
-      - 1475 K
+      - 1.475000e+003 K
     ignition-delay:
-      - 526 us
+      - 5.260000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -54,9 +54,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1483 K
+      - 1.483000e+003 K
     ignition-delay:
-      - 501 us
+      - 5.010000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -65,9 +65,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1535 K
+      - 1.535000e+003 K
     ignition-delay:
-      - 326 us
+      - 3.260000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -76,9 +76,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1542 K
+      - 1.542000e+003 K
     ignition-delay:
-      - 312 us
+      - 3.120000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -87,9 +87,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1573 K
+      - 1.573000e+003 K
     ignition-delay:
-      - 244 us
+      - 2.440000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -98,9 +98,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1613 K
+      - 1.613000e+003 K
     ignition-delay:
-      - 189 us
+      - 1.890000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

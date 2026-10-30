@@ -89,7 +89,7 @@ datapoints:
   - pressure:
       - 8 bar
     laminar-burning-velocity:
-      - 42.7 cm/s
+      - 42.70 cm/s
       - evaluated-standard-deviation: 7.06 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

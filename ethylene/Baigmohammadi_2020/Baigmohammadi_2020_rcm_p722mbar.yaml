@@ -16,7 +16,7 @@ reference:
     - name: Karl A. Heufer
     - name: Andrzej Pekalski
     - name: Henry J. Curran
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2020
   volume: 34
   pages: 3755-3771
@@ -52,7 +52,7 @@ common-properties:
 datapoints:
   - ignition-delay:
       - 87.56 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -174,7 +174,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 85.16 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -296,7 +296,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 87.89 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -418,7 +418,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 84.44 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -540,7 +540,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 29 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -552,7 +552,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 30.23 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -564,7 +564,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 29.36 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -576,7 +576,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 191.5 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -588,7 +588,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 191.9 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -600,7 +600,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 196.4 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -612,7 +612,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 8.576 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -624,7 +624,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 8.443 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -636,7 +636,7 @@ datapoints:
     ignition-type: *id002
   - ignition-delay:
       - 8.98 ms
-      - evaluated-standard-deviation: '0.2'
+      - evaluated-standard-deviation: '0.200'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

@@ -42,7 +42,7 @@ datapoints:
       - 350 K
     laminar-burning-velocity:
       - 30.66 cm/s
-      - evaluated-standard-deviation: 7 cm/s
+      - evaluated-standard-deviation: 7.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -53,7 +53,7 @@ datapoints:
       - 400 K
     laminar-burning-velocity:
       - 38.22 cm/s
-      - evaluated-standard-deviation: 7 cm/s
+      - evaluated-standard-deviation: 7.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -64,7 +64,7 @@ datapoints:
       - 500 K
     laminar-burning-velocity:
       - 56.41 cm/s
-      - evaluated-standard-deviation: 7 cm/s
+      - evaluated-standard-deviation: 7.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

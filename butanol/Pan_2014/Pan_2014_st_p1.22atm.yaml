@@ -11,7 +11,7 @@ reference:
     - name: Zemin Tian
     - name: Feiyu Yang
     - name: Zuohua Huang
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2014
   volume: 28
   pages: 2160-2169
@@ -44,7 +44,7 @@ common-properties:
     type: d/dt min extrapolated
 datapoints:
   - temperature:
-      - 1632 K
+      - 1632.0 K
     ignition-delay:
       - 93.8 us
       - evaluated-standard-deviation: '0.1'
@@ -59,7 +59,7 @@ datapoints:
   - temperature:
       - 1541.2 K
     ignition-delay:
-      - 183 us
+      - 183.0 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -72,7 +72,7 @@ datapoints:
   - temperature:
       - 1494.7 K
     ignition-delay:
-      - 305 us
+      - 305.0 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -122,7 +122,7 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1208 K
+      - 1208.0 K
     ignition-delay:
       - 3458.9 us
       - evaluated-standard-deviation: '0.1'
@@ -169,7 +169,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 1.2 atm
+      - 1.20 atm
     composition: *id001
     pressure-rise: *id002
     ignition-type: *id003

@@ -96,7 +96,7 @@ datapoints:
     equivalence-ratio:
       - 0.767 dimensionless
     laminar-burning-velocity:
-      - 23.3 cm/s
+      - 23.30 cm/s
       - evaluated-standard-deviation: 1.33648262704795 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -121,7 +121,7 @@ datapoints:
     equivalence-ratio:
       - 0.782 dimensionless
     laminar-burning-velocity:
-      - 24.4 cm/s
+      - 24.40 cm/s
       - evaluated-standard-deviation: 1.38468798377143 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -146,7 +146,7 @@ datapoints:
     equivalence-ratio:
       - 0.822 dimensionless
     laminar-burning-velocity:
-      - 26.5 cm/s
+      - 26.50 cm/s
       - evaluated-standard-deviation: 1.4780344422242 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -271,7 +271,7 @@ datapoints:
     equivalence-ratio:
       - 0.901 dimensionless
     laminar-burning-velocity:
-      - 30.5 cm/s
+      - 30.50 cm/s
       - evaluated-standard-deviation: 1.65969449369485 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -394,7 +394,7 @@ datapoints:
           amount:
             - 0.718345
     equivalence-ratio:
-      - 0.95 dimensionless
+      - 0.950 dimensionless
     laminar-burning-velocity:
       - 32.75 cm/s
       - evaluated-standard-deviation: 1.76362327678022 cm/s
@@ -644,7 +644,7 @@ datapoints:
           amount:
             - 0.704225
     equivalence-ratio:
-      - 1.16 dimensionless
+      - 1.160 dimensionless
     laminar-burning-velocity:
       - 34.59 cm/s
       - evaluated-standard-deviation: 1.84935963576612 cm/s
@@ -719,7 +719,7 @@ datapoints:
           amount:
             - 0.698343
     equivalence-ratio:
-      - 1.25 dimensionless
+      - 1.250 dimensionless
     laminar-burning-velocity:
       - 30.46 cm/s
       - evaluated-standard-deviation: 1.65785699395364 cm/s

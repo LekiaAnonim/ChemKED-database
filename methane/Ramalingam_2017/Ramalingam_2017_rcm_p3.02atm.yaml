@@ -48,9 +48,9 @@ common-properties:
     type: d/dt max
 datapoints:
   - pressure:
-      - 3.02 atm
+      - 3.020 atm
     temperature:
-      - 296.9 K
+      - 296.90 K
     ignition-delay:
       - 28.77 ms
       - evaluated-standard-deviation: '0.1'
@@ -98,9 +98,9 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 3.02 atm
+      - 3.020 atm
     temperature:
-      - 296.9 K
+      - 296.90 K
     ignition-delay:
       - 28.24 ms
       - evaluated-standard-deviation: '0.1'

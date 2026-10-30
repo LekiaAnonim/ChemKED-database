@@ -36,7 +36,7 @@ common-properties:
         amount:
           - 0.99
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   ignition-type: &id003
     target: OH*
     type: d/dt min extrapolated
@@ -181,7 +181,7 @@ datapoints:
         uncertainty: '0.1'
         uncertainty-sourcetype: reported
     pressure:
-      - 1.3 atm
+      - 1.30 atm
     composition: *id001
     equivalence-ratio: *id002
     ignition-type: *id003

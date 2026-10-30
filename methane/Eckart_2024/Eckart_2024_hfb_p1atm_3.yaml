@@ -49,7 +49,7 @@ datapoints:
           amount:
             - 0.167851974
     laminar-burning-velocity:
-      - 12.4 cm/s
+      - 12.40 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.098 cm/s
         uncertainty-sourcetype: calculated
@@ -153,7 +153,7 @@ datapoints:
           amount:
             - 0.162372783
     laminar-burning-velocity:
-      - 19.9 cm/s
+      - 19.90 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.853 cm/s
         uncertainty-sourcetype: calculated
@@ -257,7 +257,7 @@ datapoints:
           amount:
             - 0.165960973
     laminar-burning-velocity:
-      - 18.4 cm/s
+      - 18.40 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.444 cm/s
         uncertainty-sourcetype: calculated
@@ -467,7 +467,7 @@ datapoints:
     laminar-burning-velocity:
       - 23.26 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.79 cm/s
+        uncertainty: 0.790 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002
@@ -623,7 +623,7 @@ datapoints:
     laminar-burning-velocity:
       - 20.77 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.97 cm/s
+        uncertainty: 0.970 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002
@@ -647,7 +647,7 @@ datapoints:
           amount:
             - 0.163349102
     laminar-burning-velocity:
-      - 24.7 cm/s
+      - 24.70 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.015 cm/s
         uncertainty-sourcetype: calculated
@@ -701,7 +701,7 @@ datapoints:
     laminar-burning-velocity:
       - 22.69 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.92 cm/s
+        uncertainty: 0.920 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002
@@ -907,7 +907,7 @@ datapoints:
           amount:
             - 0.158122072
     laminar-burning-velocity:
-      - 16.6 cm/s
+      - 16.60 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.763 cm/s
         uncertainty-sourcetype: calculated
@@ -933,7 +933,7 @@ datapoints:
           amount:
             - 0.156657397
     laminar-burning-velocity:
-      - 9.8 cm/s
+      - 9.80 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.521 cm/s
         uncertainty-sourcetype: calculated

@@ -149,7 +149,7 @@ datapoints:
         uncertainty: '0.1'
         uncertainty-sourcetype: reported
     pressure:
-      - 28 atm
+      - 28.0 atm
     composition: *id001
     equivalence-ratio: *id002
     ignition-type: *id003

@@ -79,7 +79,7 @@ datapoints:
     equivalence-ratio:
       - 0.9 dimensionless
     laminar-burning-velocity:
-      - 24 cm/s
+      - 24.00 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.24 cm/s
         uncertainty-sourcetype: reported
@@ -101,7 +101,7 @@ datapoints:
           amount:
             - 0.5
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     laminar-burning-velocity:
       - 26.89 cm/s
       - uncertainty-type: absolute

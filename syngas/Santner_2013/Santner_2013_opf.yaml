@@ -48,7 +48,7 @@ common-properties:
           - 0.05175
 datapoints:
   - pressure:
-      - 1 atm
+      - 1.0 atm
     laminar-burning-velocity:
       - 72.86 cm/s
       - evaluated-standard-deviation: 12.22 cm/s
@@ -58,7 +58,7 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 6 atm
+      - 6.0 atm
     laminar-burning-velocity:
       - 35.84 cm/s
       - evaluated-standard-deviation: 12.22 cm/s
@@ -68,7 +68,7 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 10 atm
+      - 10.0 atm
     laminar-burning-velocity:
       - 28.27 cm/s
       - evaluated-standard-deviation: 12.22 cm/s

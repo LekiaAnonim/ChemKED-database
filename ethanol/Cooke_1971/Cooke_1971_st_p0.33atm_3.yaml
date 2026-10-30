@@ -43,9 +43,9 @@ common-properties:
     amount: 0.05
 datapoints:
   - temperature:
-      - 1364 K
+      - 1.364000e+003 K
     ignition-delay:
-      - 1025 us
+      - 1.025000e+003 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -54,9 +54,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1444 K
+      - 1.444000e+003 K
     ignition-delay:
-      - 444 us
+      - 4.440000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -65,9 +65,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1469 K
+      - 1.469000e+003 K
     ignition-delay:
-      - 453 us
+      - 4.530000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -76,9 +76,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1473 K
+      - 1.473000e+003 K
     ignition-delay:
-      - 380 us
+      - 3.800000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -87,9 +87,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1484 K
+      - 1.484000e+003 K
     ignition-delay:
-      - 350 us
+      - 3.500000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -98,9 +98,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1532 K
+      - 1.532000e+003 K
     ignition-delay:
-      - 224 us
+      - 2.240000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -109,9 +109,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1557 K
+      - 1.557000e+003 K
     ignition-delay:
-      - 202 us
+      - 2.020000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -120,9 +120,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1588 K
+      - 1.588000e+003 K
     ignition-delay:
-      - 158 us
+      - 1.580000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -131,9 +131,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1589 K
+      - 1.589000e+003 K
     ignition-delay:
-      - 170 us
+      - 1.700000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -142,9 +142,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1603 K
+      - 1.603000e+003 K
     ignition-delay:
-      - 151 us
+      - 1.510000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -153,9 +153,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1627 K
+      - 1.627000e+003 K
     ignition-delay:
-      - 125 us
+      - 1.250000e+002 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -164,9 +164,9 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - temperature:
-      - 1662 K
+      - 1.662000e+003 K
     ignition-delay:
-      - 99 us
+      - 9.900000e+001 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

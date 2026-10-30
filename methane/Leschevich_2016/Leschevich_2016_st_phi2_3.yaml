@@ -23,7 +23,7 @@ apparatus:
   facility: ''
 common-properties:
   equivalence-ratio: &id001
-    - 2 dimensionless
+    - 2.0 dimensionless
   composition: &id002
     kind: mole fraction
     species:

@@ -10,7 +10,7 @@ reference:
     - name: M. Fikri
     - name: A. A. M. Oliveira
     - name: C. Schulz
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2010
   volume: 24
   pages: 2830-2840
@@ -43,14 +43,14 @@ common-properties:
     type: d/dt min extrapolated
 datapoints:
   - temperature:
-      - 1183 K
+      - 1.183000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 1 K
+        uncertainty: 1.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 30.2 bar
+      - 3.020000e+001 bar
     ignition-delay:
-      - 58 us
+      - 5.800000e+001 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -59,14 +59,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1151 K
+      - 1.151000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 1 K
+        uncertainty: 1.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 30.8 bar
+      - 3.080000e+001 bar
     ignition-delay:
-      - 111 us
+      - 1.110000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -75,14 +75,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1107 K
+      - 1.107000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 1 K
+        uncertainty: 1.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 33.7 bar
+      - 3.370000e+001 bar
     ignition-delay:
-      - 172 us
+      - 1.720000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -91,14 +91,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1100 K
+      - 1.100000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 2 K
+        uncertainty: 2.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 37 bar
+      - 3.700000e+001 bar
     ignition-delay:
-      - 228 us
+      - 2.280000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -107,14 +107,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1081 K
+      - 1.081000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 2 K
+        uncertainty: 2.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 35.7 bar
+      - 3.570000e+001 bar
     ignition-delay:
-      - 295 us
+      - 2.950000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -123,14 +123,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1042 K
+      - 1.042000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 4 K
+        uncertainty: 4.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 26.7 bar
+      - 2.670000e+001 bar
     ignition-delay:
-      - 621 us
+      - 6.210000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -139,14 +139,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 1024 K
+      - 1.024000e+003 K
       - uncertainty-type: absolute
-        uncertainty: 4 K
+        uncertainty: 4.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 35.7 bar
+      - 3.570000e+001 bar
     ignition-delay:
-      - 686 us
+      - 6.860000e+002 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -155,14 +155,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 996 K
+      - 9.960000e+002 K
       - uncertainty-type: absolute
-        uncertainty: 6 K
+        uncertainty: 6.000000e+000 K
         uncertainty-sourcetype: reported
     pressure:
-      - 33.5 bar
+      - 3.350000e+001 bar
     ignition-delay:
-      - 1029 us
+      - 1.029000e+003 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -171,14 +171,14 @@ datapoints:
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
-      - 912 K
+      - 9.120000e+002 K
       - uncertainty-type: absolute
-        uncertainty: 24 K
+        uncertainty: 2.400000e+001 K
         uncertainty-sourcetype: reported
     pressure:
-      - 30.9 bar
+      - 3.090000e+001 bar
     ignition-delay:
-      - 4759 us
+      - 4.759000e+003 us
       - evaluated-standard-deviation: '0.12'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

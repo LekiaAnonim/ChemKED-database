@@ -43,7 +43,7 @@ datapoints:
           amount:
             - 0.6
     equivalence-ratio:
-      - 0.5 dimensionless
+      - 0.50 dimensionless
     laminar-burning-velocity:
       - 73.7 cm/s
       - evaluated-standard-deviation: 5.976 cm/s
@@ -85,7 +85,7 @@ datapoints:
           amount:
             - 0.428571
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.00 dimensionless
     laminar-burning-velocity:
       - 109.1 cm/s
       - evaluated-standard-deviation: 8.846 cm/s
@@ -106,7 +106,7 @@ datapoints:
           amount:
             - 0.365854
     equivalence-ratio:
-      - 1.3 dimensionless
+      - 1.30 dimensionless
     laminar-burning-velocity:
       - 68.7 cm/s
       - evaluated-standard-deviation: 5.571 cm/s

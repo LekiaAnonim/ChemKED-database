@@ -62,7 +62,7 @@ datapoints:
     laminar-burning-velocity:
       - 46.9 cm/s
       - uncertainty-type: absolute
-        uncertainty: 7 cm/s
+        uncertainty: 7.0 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002
@@ -90,7 +90,7 @@ datapoints:
     laminar-burning-velocity:
       - 53.2 cm/s
       - uncertainty-type: absolute
-        uncertainty: 8 cm/s
+        uncertainty: 8.0 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002
@@ -142,11 +142,11 @@ datapoints:
           amount:
             - 0.484615
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     laminar-burning-velocity:
       - 59.7 cm/s
       - uncertainty-type: absolute
-        uncertainty: 9 cm/s
+        uncertainty: 9.0 cm/s
         uncertainty-sourcetype: calculated
     temperature: *id001
     pressure: *id002

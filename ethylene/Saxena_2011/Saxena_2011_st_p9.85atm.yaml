@@ -78,7 +78,7 @@ datapoints:
   - temperature:
       - 1473 K
     pressure:
-      - 10 atm
+      - 10.0 atm
     ignition-delay:
       - 21 us
       - evaluated-standard-deviation: '0.241'

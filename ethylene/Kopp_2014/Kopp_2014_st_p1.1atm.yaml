@@ -48,7 +48,7 @@ datapoints:
       - 1125 K
     ignition-delay:
       - 1632 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty
@@ -60,7 +60,7 @@ datapoints:
       - 1166 K
     ignition-delay:
       - 736 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty
@@ -72,7 +72,7 @@ datapoints:
       - 1203 K
     ignition-delay:
       - 369 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty
@@ -84,7 +84,7 @@ datapoints:
       - 1217 K
     ignition-delay:
       - 288 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty
@@ -96,7 +96,7 @@ datapoints:
       - 1238 K
     ignition-delay:
       - 226 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty
@@ -108,7 +108,7 @@ datapoints:
       - 1268 K
     ignition-delay:
       - 151 us
-      - evaluated-standard-deviation: '0.1'
+      - evaluated-standard-deviation: '0.100'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and estimated uncertainty

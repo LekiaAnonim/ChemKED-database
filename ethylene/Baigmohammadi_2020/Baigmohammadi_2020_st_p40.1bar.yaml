@@ -16,7 +16,7 @@ reference:
     - name: Karl A. Heufer
     - name: Andrzej Pekalski
     - name: Henry J. Curran
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2020
   volume: 34
   pages: 3755-3771
@@ -52,7 +52,7 @@ datapoints:
       - 40.144 bar
     ignition-delay:
       - 6 us
-      - evaluated-standard-deviation: '0.15'
+      - evaluated-standard-deviation: '0.150'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -64,7 +64,7 @@ datapoints:
       - 39.989 bar
     ignition-delay:
       - 9.248 us
-      - evaluated-standard-deviation: '0.15'
+      - evaluated-standard-deviation: '0.150'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -76,7 +76,7 @@ datapoints:
       - 40.087 bar
     ignition-delay:
       - 14.5 us
-      - evaluated-standard-deviation: '0.15'
+      - evaluated-standard-deviation: '0.150'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -88,7 +88,7 @@ datapoints:
       - 40.296 bar
     ignition-delay:
       - 31 us
-      - evaluated-standard-deviation: '0.15'
+      - evaluated-standard-deviation: '0.150'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -100,7 +100,7 @@ datapoints:
       - 39.885 bar
     ignition-delay:
       - 71 us
-      - evaluated-standard-deviation: '0.15'
+      - evaluated-standard-deviation: '0.150'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

@@ -43,10 +43,10 @@ datapoints:
           amount:
             - 0.6
     equivalence-ratio:
-      - 0.5 dimensionless
+      - 0.50 dimensionless
     laminar-burning-velocity:
       - 77.5 cm/s
-      - evaluated-standard-deviation: 5.48 cm/s
+      - evaluated-standard-deviation: 5.480 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -64,9 +64,9 @@ datapoints:
           amount:
             - 0.428571
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.00 dimensionless
     laminar-burning-velocity:
-      - 105 cm/s
+      - 105.0 cm/s
       - evaluated-standard-deviation: 7.425 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -85,7 +85,7 @@ datapoints:
           amount:
             - 0.365854
     equivalence-ratio:
-      - 1.3 dimensionless
+      - 1.30 dimensionless
     laminar-burning-velocity:
       - 74.5 cm/s
       - evaluated-standard-deviation: 5.268 cm/s

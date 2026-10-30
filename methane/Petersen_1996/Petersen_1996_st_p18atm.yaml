@@ -44,9 +44,9 @@ common-properties:
     type: max
 datapoints:
   - temperature:
-      - 1788 K
+      - 1788.0 K
     ignition-delay:
-      - 68.3 us
+      - 68.30 us
       - evaluated-standard-deviation: '0.161'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -68,7 +68,7 @@ datapoints:
   - temperature:
       - 1704.1 K
     ignition-delay:
-      - 130.7 us
+      - 130.70 us
       - evaluated-standard-deviation: '0.177'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -79,7 +79,7 @@ datapoints:
   - temperature:
       - 1669.4 K
     ignition-delay:
-      - 187.6 us
+      - 187.60 us
       - evaluated-standard-deviation: '0.184'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

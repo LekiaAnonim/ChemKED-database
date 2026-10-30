@@ -88,7 +88,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.2 dimensionless
+      - 0.20 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -110,7 +110,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.2 dimensionless
+      - 0.20 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -132,7 +132,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.3 dimensionless
+      - 0.30 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -154,7 +154,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.3 dimensionless
+      - 0.30 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -176,7 +176,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.4 dimensionless
+      - 0.40 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -198,7 +198,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.4 dimensionless
+      - 0.40 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -220,7 +220,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.5 dimensionless
+      - 0.50 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -242,7 +242,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.5 dimensionless
+      - 0.50 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -264,7 +264,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.6 dimensionless
+      - 0.60 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -286,7 +286,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.6 dimensionless
+      - 0.60 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -308,7 +308,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.7 dimensionless
+      - 0.70 dimensionless
     pressure: *id001
   - composition:
       kind: mole fraction
@@ -330,6 +330,6 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     equivalence-ratio:
-      - 0.7 dimensionless
+      - 0.70 dimensionless
     pressure: *id001
 ...

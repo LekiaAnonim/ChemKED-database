@@ -97,7 +97,7 @@ datapoints:
     composition: *id003
     ignition-type: *id004
   - pressure:
-      - 21 bar
+      - 21.0 bar
     temperature:
       - 1656 K
       - uncertainty-type: relative

@@ -17,7 +17,7 @@ reference:
     - name: H. J. Curran
     - name: F. Battin-Leclerc
     - name: T. Faravelli
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2020
   volume: 34
   pages: 14708-14725
@@ -422,7 +422,7 @@ datapoints:
     temperature:
       - 333.15 K
     ignition-delay:
-      - 8.4 ms
+      - 8.40 ms
       - evaluated-standard-deviation: '0.15'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -788,7 +788,7 @@ datapoints:
     temperature:
       - 363.15 K
     ignition-delay:
-      - 5 ms
+      - 5.00 ms
       - evaluated-standard-deviation: '0.15'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

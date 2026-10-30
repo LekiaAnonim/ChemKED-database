@@ -63,9 +63,9 @@ datapoints:
         uncertainty: 2 K
         uncertainty-sourcetype: reported
     pressure:
-      - 4.9 bar
+      - 4.90 bar
     laminar-burning-velocity:
-      - 19.8 cm/s
+      - 19.80 cm/s
       - uncertainty-type: absolute
         uncertainty: 2.01 cm/s
         uncertainty-sourcetype: calculated
@@ -95,9 +95,9 @@ datapoints:
         uncertainty: 2 K
         uncertainty-sourcetype: reported
     pressure:
-      - 4.9 bar
+      - 4.90 bar
     laminar-burning-velocity:
-      - 16.1 cm/s
+      - 16.10 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.12 cm/s
         uncertainty-sourcetype: calculated
@@ -127,7 +127,7 @@ datapoints:
         uncertainty: 2 K
         uncertainty-sourcetype: reported
     pressure:
-      - 4.9 bar
+      - 4.90 bar
     laminar-burning-velocity:
       - 14.47 cm/s
       - uncertainty-type: absolute

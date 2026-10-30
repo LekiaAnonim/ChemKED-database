@@ -172,7 +172,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 1.5 dimensionless
+      - 1.50 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -502,7 +502,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.9 dimensionless
+      - 0.90 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -562,7 +562,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.8 dimensionless
+      - 0.80 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -622,7 +622,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.7 dimensionless
+      - 0.70 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -772,7 +772,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.5 dimensionless
+      - 0.50 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -793,7 +793,7 @@ datapoints:
     pressure:
       - 101.6 kPa
     laminar-burning-velocity:
-      - 25 cm/s
+      - 25.0 cm/s
       - evaluated-standard-deviation: 2.48 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -832,7 +832,7 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.4 dimensionless
+      - 0.40 dimensionless
   - composition:
       kind: mole fraction
       species:
@@ -922,5 +922,5 @@ datapoints:
         uncertainty: '0.06'
         uncertainty-sourcetype: reported
     equivalence-ratio:
-      - 0.3 dimensionless
+      - 0.30 dimensionless
 ...

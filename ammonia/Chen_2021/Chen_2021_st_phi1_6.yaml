@@ -42,7 +42,7 @@ common-properties:
         amount:
           - 91.574
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   ignition-type: &id003
     target: OH*
     type: d/dt min extrapolated
@@ -50,7 +50,7 @@ datapoints:
   - pressure:
       - 9.23 atm
     temperature:
-      - 1296.9 K
+      - 1296.90 K
     ignition-delay:
       - 82.09 us
       - evaluated-standard-deviation: '0.23672'
@@ -64,11 +64,11 @@ datapoints:
     equivalence-ratio: *id002
     ignition-type: *id003
   - pressure:
-      - 9.8 atm
+      - 9.80 atm
     temperature:
-      - 1191.9 K
+      - 1191.90 K
     ignition-delay:
-      - 221.8 us
+      - 221.80 us
       - evaluated-standard-deviation: '0.23672'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -82,7 +82,7 @@ datapoints:
   - pressure:
       - 9.92 atm
     temperature:
-      - 1177.4 K
+      - 1177.40 K
     ignition-delay:
       - 447.88 us
       - evaluated-standard-deviation: '0.23672'
@@ -98,7 +98,7 @@ datapoints:
   - pressure:
       - 9.82 atm
     temperature:
-      - 1137 K
+      - 1137.00 K
     ignition-delay:
       - 747.76 us
       - evaluated-standard-deviation: '0.23672'
@@ -112,11 +112,11 @@ datapoints:
     equivalence-ratio: *id002
     ignition-type: *id003
   - pressure:
-      - 9.7 atm
+      - 9.70 atm
     temperature:
-      - 1124.5 K
+      - 1124.50 K
     ignition-delay:
-      - 1177.3 us
+      - 1177.30 us
       - evaluated-standard-deviation: '0.23672'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -130,7 +130,7 @@ datapoints:
   - pressure:
       - 9.96 atm
     temperature:
-      - 1088.3 K
+      - 1088.30 K
     ignition-delay:
       - 1956.98 us
       - evaluated-standard-deviation: '0.23672'
@@ -146,7 +146,7 @@ datapoints:
   - pressure:
       - 9.86 atm
     temperature:
-      - 1052.2 K
+      - 1052.20 K
     ignition-delay:
       - 4745.25 us
       - evaluated-standard-deviation: '0.23672'

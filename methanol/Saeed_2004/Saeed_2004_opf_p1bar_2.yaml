@@ -20,7 +20,7 @@ apparatus:
   facility: ''
 common-properties:
   pressure: &id001
-    - 1 bar
+    - 1.0 bar
   temperature: &id002
     - 425 K
 datapoints:
@@ -115,13 +115,13 @@ datapoints:
           amount:
             - 0.693423
     laminar-burning-velocity:
-      - 73.8 cm/s
+      - 73.80 cm/s
       - evaluated-standard-deviation: 1.7 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:

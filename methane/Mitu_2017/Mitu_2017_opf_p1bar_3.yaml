@@ -45,7 +45,7 @@ datapoints:
           amount:
             - 0.74252
     laminar-burning-velocity:
-      - 10.9 cm/s
+      - 10.90 cm/s
       - evaluated-standard-deviation: 0.879445371867975 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -68,7 +68,7 @@ datapoints:
           amount:
             - 0.734545
     laminar-burning-velocity:
-      - 17.7 cm/s
+      - 17.70 cm/s
       - evaluated-standard-deviation: 1.00581417871295 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -91,7 +91,7 @@ datapoints:
           amount:
             - 0.726671
     laminar-burning-velocity:
-      - 23.6 cm/s
+      - 23.60 cm/s
       - evaluated-standard-deviation: 1.14462129636837 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -114,7 +114,7 @@ datapoints:
           amount:
             - 0.714796
     laminar-burning-velocity:
-      - 31.2 cm/s
+      - 31.20 cm/s
       - evaluated-standard-deviation: 1.34920195378602 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -137,7 +137,7 @@ datapoints:
           amount:
             - 0.710812
     laminar-burning-velocity:
-      - 30.1 cm/s
+      - 30.10 cm/s
       - evaluated-standard-deviation: 1.31823524535646 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -160,7 +160,7 @@ datapoints:
           amount:
             - 0.694988
     laminar-burning-velocity:
-      - 17.1 cm/s
+      - 17.10 cm/s
       - evaluated-standard-deviation: 0.993017704827059 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

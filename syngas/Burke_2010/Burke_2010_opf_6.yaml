@@ -42,7 +42,7 @@ datapoints:
   - pressure:
       - 1 atm
     laminar-burning-velocity:
-      - 280 cm/s
+      - 280.0 cm/s
       - evaluated-standard-deviation: 27.48 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -92,7 +92,7 @@ datapoints:
   - pressure:
       - 25 atm
     laminar-burning-velocity:
-      - 72 cm/s
+      - 72.0 cm/s
       - evaluated-standard-deviation: 27.48 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

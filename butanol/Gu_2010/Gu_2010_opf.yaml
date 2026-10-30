@@ -40,7 +40,7 @@ common-properties:
     - 428 K
 datapoints:
   - pressure:
-      - 1 bar
+      - 1.0 bar
     laminar-burning-velocity:
       - 61.72 cm/s
       - evaluated-standard-deviation: 1 cm/s
@@ -52,7 +52,7 @@ datapoints:
   - pressure:
       - 2.5 bar
     laminar-burning-velocity:
-      - 54 cm/s
+      - 54.00 cm/s
       - evaluated-standard-deviation: 1 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -60,7 +60,7 @@ datapoints:
     composition: *id001
     temperature: *id002
   - pressure:
-      - 5 bar
+      - 5.0 bar
     laminar-burning-velocity:
       - 44.33 cm/s
       - evaluated-standard-deviation: 1 cm/s
@@ -72,7 +72,7 @@ datapoints:
   - pressure:
       - 7.5 bar
     laminar-burning-velocity:
-      - 36.2 cm/s
+      - 36.20 cm/s
       - evaluated-standard-deviation: 1 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

@@ -16,7 +16,7 @@ reference:
     - name: Karl A. Heufer
     - name: Andrzej Pekalski
     - name: Henry J. Curran
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2020
   volume: 34
   pages: 3755-3771
@@ -52,7 +52,7 @@ datapoints:
       - 39.563 bar
     ignition-delay:
       - 150.853 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -64,7 +64,7 @@ datapoints:
       - 40.104 bar
     ignition-delay:
       - 260 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -76,7 +76,7 @@ datapoints:
       - 38.805 bar
     ignition-delay:
       - 535 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -88,7 +88,7 @@ datapoints:
       - 40.954 bar
     ignition-delay:
       - 827.684 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -100,7 +100,7 @@ datapoints:
       - 40.104 bar
     ignition-delay:
       - 1596 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -112,7 +112,7 @@ datapoints:
       - 41.524 bar
     ignition-delay:
       - 2258 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

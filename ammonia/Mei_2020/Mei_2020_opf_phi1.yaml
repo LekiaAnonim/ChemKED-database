@@ -29,7 +29,7 @@ common-properties:
   temperature: &id002
     - 298 K
   equivalence-ratio: &id003
-    - 1 dimensionless
+    - 1.0 dimensionless
     - uncertainty-type: absolute
       uncertainty: '0.02'
       uncertainty-sourcetype: reported
@@ -58,7 +58,7 @@ datapoints:
           amount:
             - 0.612567
     laminar-burning-velocity:
-      - 8.6 cm/s
+      - 8.60 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.66 cm/s
         uncertainty-sourcetype: reported
@@ -120,7 +120,7 @@ datapoints:
           amount:
             - 0.591317
     laminar-burning-velocity:
-      - 25.4 cm/s
+      - 25.40 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.92 cm/s
         uncertainty-sourcetype: reported

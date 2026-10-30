@@ -24,11 +24,11 @@ apparatus:
   facility: ''
 common-properties:
   pressure: &id001
-    - 0001 atm
+    - 1 atm
   reactor-volume: &id002
-    - 0035 cm3
+    - 35 cm3
   residence-time: &id003
-    - 0050 ms
+    - 50 ms
   composition: &id004
     species:
       - species-name: CH3OH

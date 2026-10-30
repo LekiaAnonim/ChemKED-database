@@ -11,7 +11,7 @@ reference:
     - name: Dmitrii Mamaikin
     - name: Lars Zigan
     - name: Michael Wensing
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2014
   volume: 28
   pages: 1446-1452
@@ -44,7 +44,7 @@ datapoints:
             - 0.754219
     laminar-burning-velocity:
       - 31.55 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -67,7 +67,7 @@ datapoints:
             - 0.749242
     laminar-burning-velocity:
       - 41.85 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -90,7 +90,7 @@ datapoints:
             - 0.74433
     laminar-burning-velocity:
       - 49.43 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -113,7 +113,7 @@ datapoints:
             - 0.739483
     laminar-burning-velocity:
       - 55.21 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -136,7 +136,7 @@ datapoints:
             - 0.734698
     laminar-burning-velocity:
       - 57.13 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -159,7 +159,7 @@ datapoints:
             - 0.729974
     laminar-burning-velocity:
       - 55.55 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -181,8 +181,8 @@ datapoints:
           amount:
             - 0.725311
     laminar-burning-velocity:
-      - 50 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - 50.00 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -205,7 +205,7 @@ datapoints:
             - 0.720707
     laminar-burning-velocity:
       - 41.06 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -228,7 +228,7 @@ datapoints:
             - 0.716161
     laminar-burning-velocity:
       - 30.75 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -251,7 +251,7 @@ datapoints:
             - 0.711672
     laminar-burning-velocity:
       - 21.02 cm/s
-      - evaluated-standard-deviation: 1 cm/s
+      - evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty

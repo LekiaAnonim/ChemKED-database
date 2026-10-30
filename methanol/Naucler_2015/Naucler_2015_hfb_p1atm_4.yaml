@@ -51,12 +51,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.96 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 0.8 dimensionless
+      - 0.800 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.011'
         uncertainty-sourcetype: reported
@@ -80,14 +80,14 @@ datapoints:
     laminar-burning-velocity:
       - 41.15 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.9 cm/s
+        uncertainty: 0.90 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 0.9 dimensionless
+      - 0.900 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.012'
         uncertainty-sourcetype: reported
@@ -113,12 +113,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.92 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.000 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.014'
         uncertainty-sourcetype: reported
@@ -144,12 +144,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.94 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1.1 dimensionless
+      - 1.100 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.015'
         uncertainty-sourcetype: reported
@@ -175,12 +175,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.02 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1.2 dimensionless
+      - 1.200 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.016'
         uncertainty-sourcetype: reported
@@ -206,12 +206,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.01 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1.3 dimensionless
+      - 1.300 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.018'
         uncertainty-sourcetype: reported
@@ -237,12 +237,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.06 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1.4 dimensionless
+      - 1.400 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.019'
         uncertainty-sourcetype: reported
@@ -268,14 +268,14 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.06 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1.5 dimensionless
+      - 1.500 dimensionless
       - uncertainty-type: absolute
-        uncertainty: '0.02'
+        uncertainty: '0.020'
         uncertainty-sourcetype: reported
     temperature: *id001
     pressure: *id002

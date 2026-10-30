@@ -45,7 +45,7 @@ datapoints:
     laminar-burning-velocity:
       - 75.1 cm/s
       - uncertainty-type: absolute
-        uncertainty: 4 cm/s
+        uncertainty: 4.0 cm/s
         uncertainty-sourcetype: reported
     equivalence-ratio: *id001
     pressure: *id002
@@ -55,7 +55,7 @@ datapoints:
     laminar-burning-velocity:
       - 81.4 cm/s
       - uncertainty-type: absolute
-        uncertainty: 6 cm/s
+        uncertainty: 6.0 cm/s
         uncertainty-sourcetype: reported
     equivalence-ratio: *id001
     pressure: *id002

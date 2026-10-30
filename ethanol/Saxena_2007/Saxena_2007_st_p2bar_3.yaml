@@ -79,7 +79,7 @@ datapoints:
     pressure:
       - 2 bar
     ignition-delay:
-      - 48.3 us
+      - 48.30 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

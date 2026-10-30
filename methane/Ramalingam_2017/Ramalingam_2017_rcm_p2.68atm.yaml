@@ -50,7 +50,7 @@ datapoints:
   - pressure:
       - 2.684 atm
     temperature:
-      - 294.7 K
+      - 294.70 K
     ignition-delay:
       - 39.86 ms
       - evaluated-standard-deviation: '0.1'
@@ -104,7 +104,7 @@ datapoints:
   - pressure:
       - 2.684 atm
     temperature:
-      - 294.7 K
+      - 294.70 K
     ignition-delay:
       - 37.94 ms
       - evaluated-standard-deviation: '0.1'
@@ -116,7 +116,7 @@ datapoints:
   - pressure:
       - 2.684 atm
     temperature:
-      - 294.7 K
+      - 294.70 K
     ignition-delay:
       - 35.72 ms
       - evaluated-standard-deviation: '0.1'

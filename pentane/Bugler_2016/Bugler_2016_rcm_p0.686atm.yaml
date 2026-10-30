@@ -60,9 +60,9 @@ datapoints:
   - pressure:
       - 0.68197 atm
     temperature:
-      - 295 K
+      - 295.00 K
     ignition-delay:
-      - 16400 us
+      - 1.64E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -107,9 +107,9 @@ datapoints:
   - pressure:
       - 0.68271 atm
     temperature:
-      - 303 K
+      - 303.00 K
     ignition-delay:
-      - 11000 us
+      - 1.10E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -149,9 +149,9 @@ datapoints:
   - pressure:
       - 0.68105 atm
     temperature:
-      - 313 K
+      - 313.00 K
     ignition-delay:
-      - 4980 us
+      - 4.98E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -191,11 +191,11 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 0.681 atm
+      - 0.68100 atm
     temperature:
-      - 323 K
+      - 323.00 K
     ignition-delay:
-      - 2560 us
+      - 2.56E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -247,9 +247,9 @@ datapoints:
   - pressure:
       - 0.69186 atm
     temperature:
-      - 333 K
+      - 333.00 K
     ignition-delay:
-      - 1500 us
+      - 1.50E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -302,9 +302,9 @@ datapoints:
   - pressure:
       - 0.69584 atm
     temperature:
-      - 343 K
+      - 343.00 K
     ignition-delay:
-      - 1220 us
+      - 1.22E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

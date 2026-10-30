@@ -41,13 +41,13 @@ datapoints:
           amount:
             - 0.7338077
     laminar-burning-velocity:
-      - 16.10238 cm/s
+      - 1.610238e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.55122 dimensionless
+      - 5.51220E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -66,13 +66,13 @@ datapoints:
           amount:
             - 0.7290056
     laminar-burning-velocity:
-      - 19.54177 cm/s
+      - 1.954177e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.60198 dimensionless
+      - 6.01980E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -91,13 +91,13 @@ datapoints:
           amount:
             - 0.7196762
     laminar-burning-velocity:
-      - 31.15308 cm/s
+      - 3.115308e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.70253 dimensionless
+      - 7.02530E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -116,13 +116,13 @@ datapoints:
           amount:
             - 0.7105791
     laminar-burning-velocity:
-      - 42.36227 cm/s
+      - 4.236227e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.80312 dimensionless
+      - 8.03120E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -141,13 +141,13 @@ datapoints:
           amount:
             - 0.7064174
     laminar-burning-velocity:
-      - 52.51353 cm/s
+      - 5.251353e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.85 dimensionless
+      - 8.50000E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -166,13 +166,13 @@ datapoints:
           amount:
             - 0.7017125
     laminar-burning-velocity:
-      - 59.75794 cm/s
+      - 5.975794e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.90367 dimensionless
+      - 9.03670E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -191,13 +191,13 @@ datapoints:
           amount:
             - 0.6959931
     laminar-burning-velocity:
-      - 60.66266 cm/s
+      - 6.066266e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.96989 dimensionless
+      - 9.69890E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -216,13 +216,13 @@ datapoints:
           amount:
             - 0.6935601
     laminar-burning-velocity:
-      - 63.91387 cm/s
+      - 6.391387e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 0.99839 dimensionless
+      - 9.98390E-01 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -241,13 +241,13 @@ datapoints:
           amount:
             - 0.6892477
     laminar-burning-velocity:
-      - 64.81682 cm/s
+      - 6.481682e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.0494 dimensionless
+      - 1.04940E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -266,13 +266,13 @@ datapoints:
           amount:
             - 0.6852634
     laminar-burning-velocity:
-      - 66.09058 cm/s
+      - 6.609058e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.0971 dimensionless
+      - 1.09710E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -291,13 +291,13 @@ datapoints:
           amount:
             - 0.6810943
     laminar-burning-velocity:
-      - 66.46763 cm/s
+      - 6.646763e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.14761 dimensionless
+      - 1.14761E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -316,13 +316,13 @@ datapoints:
           amount:
             - 0.6769165
     laminar-burning-velocity:
-      - 64.83416 cm/s
+      - 6.483416e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.19885 dimensionless
+      - 1.19885E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -341,13 +341,13 @@ datapoints:
           amount:
             - 0.673045
     laminar-burning-velocity:
-      - 62.48887 cm/s
+      - 6.248887e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.2469 dimensionless
+      - 1.24690E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -366,13 +366,13 @@ datapoints:
           amount:
             - 0.6687586
     laminar-burning-velocity:
-      - 61.96926 cm/s
+      - 6.196926e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.30075 dimensionless
+      - 1.30075E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -391,13 +391,13 @@ datapoints:
           amount:
             - 0.6649647
     laminar-burning-velocity:
-      - 57.45873 cm/s
+      - 5.745873e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.34899 dimensionless
+      - 1.34899E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -416,13 +416,13 @@ datapoints:
           amount:
             - 0.6612014
     laminar-burning-velocity:
-      - 51.3088 cm/s
+      - 5.130880e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.39739 dimensionless
+      - 1.39739E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -441,13 +441,13 @@ datapoints:
           amount:
             - 0.6536438
     laminar-burning-velocity:
-      - 45.87617 cm/s
+      - 4.587617e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.49627 dimensionless
+      - 1.49627E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -466,13 +466,13 @@ datapoints:
           amount:
             - 0.6462474
     laminar-burning-velocity:
-      - 39.02066 cm/s
+      - 3.902066e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.59528 dimensionless
+      - 1.59528E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -491,13 +491,13 @@ datapoints:
           amount:
             - 0.6424499
     laminar-burning-velocity:
-      - 32.15967 cm/s
+      - 3.215967e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.647 dimensionless
+      - 1.64700E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -516,13 +516,13 @@ datapoints:
           amount:
             - 0.6369363
     laminar-burning-velocity:
-      - 31.08588 cm/s
+      - 3.108588e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.72319 dimensionless
+      - 1.72319E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -541,13 +541,13 @@ datapoints:
           amount:
             - 0.6321484
     laminar-burning-velocity:
-      - 26.9178 cm/s
+      - 2.691780e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.79043 dimensionless
+      - 1.79043E+00 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -566,13 +566,13 @@ datapoints:
           amount:
             - 0.6245642
     laminar-burning-velocity:
-      - 21.85749 cm/s
+      - 2.185749e+001 cm/s
       - evaluated-standard-deviation: 5.41 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1.89905 dimensionless
+      - 1.89905E+00 dimensionless
     pressure: *id001
     temperature: *id002
 ...
