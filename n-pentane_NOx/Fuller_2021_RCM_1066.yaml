@@ -18,6 +18,8 @@ reference:
     - name: K. Alexander Heufer
       ORCID: 0000-0003-1657-5231
   journal: "Reaction Chemistry & Engineering"
+  volume: 6
+  pages: "2191-2203"
   year: 2021
 experiment-type: ignition delay
 apparatus:
