@@ -76,12 +76,6 @@ datapoints:
             - 3.682e-09
           - - 818.8
             - 3.891e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.000116
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: combined from scatter and reported
-              uncertainty
     temperature: *id001
     pressure: *id002
     composition: *id003
@@ -115,12 +109,6 @@ datapoints:
             - 7.646e-09
           - - 729.4
             - 8.866e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.000205
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: combined from scatter and reported
-              uncertainty
     temperature: *id001
     pressure: *id002
     composition: *id003

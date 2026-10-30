@@ -82,11 +82,6 @@ datapoints:
             - 2.01493e-09
           - - 140.0
             - 1.75373e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 8.45e-09
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: generic uncertainty
       - species-name: CH2O
         InChI: 1S/CH2O/c1-2/h1H2
         quantity:
@@ -120,11 +115,6 @@ datapoints:
             - 3.73134e-10
           - - 140.0
             - 2.61194e-10
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 6.34e-10
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: generic uncertainty
       - species-name: CO
         InChI: 1S/CO/c1-2
         quantity:
@@ -158,11 +148,6 @@ datapoints:
             - 9.14179e-09
           - - 140.0
             - 9.14179e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 1.83e-09
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: generic uncertainty
       - species-name: H2O
         InChI: 1S/H2O/h1H2
         quantity:
@@ -196,11 +181,6 @@ datapoints:
             - 5.56412e-09
           - - 140.0
             - 5.37587e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 1.74e-09
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     pressure: *id002
     composition: *id003
