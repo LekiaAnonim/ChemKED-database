@@ -82,11 +82,6 @@ datapoints:
             - 8.1775e-10
           - - 140.0
             - 7.03645e-10
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.00166
-            evaluated-standard-deviation-sourcetype: reported
-            evaluated-standard-deviation-method: reported uncertainty
       - species-name: H2O
         InChI: 1S/H2O/h1H2
         quantity:
@@ -120,11 +115,6 @@ datapoints:
             - 2.16799e-09
           - - 140.0
             - 2.37718e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.000713
-            evaluated-standard-deviation-sourcetype: reported
-            evaluated-standard-deviation-method: reported uncertainty
       - species-name: CH2O
         InChI: 1S/CH2O/c1-2/h1H2
         quantity:
@@ -158,11 +148,6 @@ datapoints:
             - 2.66244e-10
           - - 140.0
             - 2.09192e-10
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.000219
-            evaluated-standard-deviation-sourcetype: reported
-            evaluated-standard-deviation-method: reported uncertainty
       - species-name: CO
         InChI: 1S/CO/c1-2
         quantity:
@@ -196,11 +181,6 @@ datapoints:
             - 2.72507e-09
           - - 140.0
             - 2.92828e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.000586
-            evaluated-standard-deviation-sourcetype: reported
-            evaluated-standard-deviation-method: reported uncertainty
       - species-name: CO2
         InChI: 1S/CO2/c2-1-3
         quantity:
@@ -234,11 +214,6 @@ datapoints:
             - 1.51292e-10
           - - 140.0
             - 1.834e-10
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 3.67e-05
-            evaluated-standard-deviation-sourcetype: reported
-            evaluated-standard-deviation-method: reported uncertainty
     temperature: *id001
     pressure: *id002
     composition: *id003

@@ -401,11 +401,6 @@ datapoints:
             - 6.27788e-08
           - - 0.001504
             - 7.74692e-08
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.015
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: statistical scatter
       - species-name: CH4
         InChI: 1S/CH4/h1H4
         quantity:
@@ -761,11 +756,6 @@ datapoints:
             - 2.80392e-08
           - - 0.001504
             - 3.25302e-08
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.0065
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: statistical scatter
       - species-name: CH3CHO
         InChI: 1S/C2H4O/c1-2-3/h2H,1H3
         quantity:
@@ -1121,11 +1111,6 @@ datapoints:
             - 3.61776e-09
           - - 0.001504
             - 2.5548e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.00197
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: statistical scatter
       - species-name: C2H2
         InChI: 1S/C2H2/c1-2/h1-2H
         quantity:
@@ -1836,11 +1821,6 @@ datapoints:
             - 4.75983e-09
           - - 0.001504
             - 4.37153e-09
-        uncertainty:
-          - evaluated-standard-deviation-type: absolute
-            evaluated-standard-deviation: 0.00721
-            evaluated-standard-deviation-sourcetype: estimated
-            evaluated-standard-deviation-method: statistical scatter
     composition: *id001
     temperature: *id002
     pressure: *id003
