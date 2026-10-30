@@ -53,7 +53,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 53.9 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 244 us
@@ -66,7 +66,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 60 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 233 us
@@ -79,7 +79,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 60.6 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 323 us
@@ -92,7 +92,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 55.4 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 364 us
@@ -105,7 +105,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 48.6 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 232 us
@@ -118,7 +118,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 57.7 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 292 us
@@ -131,7 +131,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 53.6 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 261 us
@@ -144,7 +144,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 54.2 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 237 us
@@ -157,7 +157,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 59.1 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 194 us
@@ -170,7 +170,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 50 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 179 us
@@ -183,7 +183,7 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 53.1 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 102 us
@@ -196,4 +196,4 @@ datapoints:
     uncertainty: 0.018
   pressure:
   - 52.3 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]

@@ -49,5 +49,5 @@ datapoints:
       - 18.3 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 3.31
+    equivalence-ratio: [3.31]
 ...

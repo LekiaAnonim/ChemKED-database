@@ -47,7 +47,7 @@ datapoints:
   - 5.1700e+00 atm
   temperature:
   - 1.6610e+03 K
-  equivalence-ratio: 2
+  equivalence-ratio: [2]
 - composition: *id001
   ignition-delay:
   - 3.0300e+02 us
@@ -56,7 +56,7 @@ datapoints:
   - 4.0700e+00 atm
   temperature:
   - 1.4430e+03 K
-  equivalence-ratio: 2
+  equivalence-ratio: [2]
 - composition: *id001
   ignition-delay:
   - 1.9000e+02 us
@@ -65,4 +65,4 @@ datapoints:
   - 4.4300e+00 atm
   temperature:
   - 1.5090e+03 K
-  equivalence-ratio: 2
+  equivalence-ratio: [2]

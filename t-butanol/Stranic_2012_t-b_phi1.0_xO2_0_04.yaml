@@ -51,7 +51,7 @@ datapoints:
       - 17.94 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1245 kelvin
     ignition-delay:
@@ -60,7 +60,7 @@ datapoints:
       - 17.73 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1224 kelvin
     ignition-delay:
@@ -69,7 +69,7 @@ datapoints:
       - 18.51 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1268 kelvin
     ignition-delay:
@@ -78,7 +78,7 @@ datapoints:
       - 41.12 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1211 kelvin
     ignition-delay:
@@ -87,7 +87,7 @@ datapoints:
       - 44.95 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1169 kelvin
     ignition-delay:
@@ -96,7 +96,7 @@ datapoints:
       - 45.12 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1263 kelvin
     ignition-delay:
@@ -105,7 +105,7 @@ datapoints:
       - 18.71 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1183 kelvin
     ignition-delay:
@@ -114,7 +114,7 @@ datapoints:
       - 18.77 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1316 kelvin
     ignition-delay:
@@ -123,7 +123,7 @@ datapoints:
       - 18.56 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1220 kelvin
     ignition-delay:
@@ -132,5 +132,5 @@ datapoints:
       - 18.91 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
 ...

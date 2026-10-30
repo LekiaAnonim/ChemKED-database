@@ -51,7 +51,7 @@ datapoints:
       - 0.95 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1388 kelvin
     ignition-delay:
@@ -60,7 +60,7 @@ datapoints:
       - 0.93 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1312 kelvin
     ignition-delay:
@@ -69,7 +69,7 @@ datapoints:
       - 0.96 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1534 kelvin
     ignition-delay:
@@ -78,5 +78,5 @@ datapoints:
       - 0.91 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
 ...
