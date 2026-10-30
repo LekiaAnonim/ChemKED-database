@@ -164,7 +164,7 @@ datapoints:
         uncertainty: 20 K
         uncertainty-sourcetype: reported
     pressure:
-      - 1.4 atm
+      - 1.40 atm
     ignition-delay:
       - 80 us
       - evaluated-standard-deviation: '0.1'

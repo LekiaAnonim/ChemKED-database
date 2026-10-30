@@ -52,7 +52,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.5 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -80,7 +80,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.7 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -108,7 +108,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.7 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -136,12 +136,12 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.8 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     temperature: *id001
     pressure: *id002
   - composition:
@@ -164,7 +164,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.8 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -192,7 +192,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.8 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -218,9 +218,9 @@ datapoints:
     laminar-burning-velocity:
       - 60.39 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1 cm/s
+        uncertainty: 1.0 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -246,9 +246,9 @@ datapoints:
     laminar-burning-velocity:
       - 54.37 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1 cm/s
+        uncertainty: 1.0 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -274,9 +274,9 @@ datapoints:
     laminar-burning-velocity:
       - 46.32 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1 cm/s
+        uncertainty: 1.0 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 1 cm/s
+        evaluated-standard-deviation: 1.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty

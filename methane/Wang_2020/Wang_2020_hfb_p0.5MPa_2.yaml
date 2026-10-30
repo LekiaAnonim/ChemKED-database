@@ -32,7 +32,7 @@ common-properties:
   temperature: &id001
     - 298 K
   pressure: &id002
-    - 0.5 MPa
+    - 0.50 MPa
 datapoints:
   - composition:
       kind: mole fraction
@@ -234,7 +234,7 @@ datapoints:
           amount:
             - 0.663221
     laminar-burning-velocity:
-      - 11.4 cm/s
+      - 11.40 cm/s
       - evaluated-standard-deviation: 0.678216054584834 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

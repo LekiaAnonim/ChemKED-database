@@ -40,9 +40,9 @@ common-properties:
           - 0.739483
 datapoints:
   - pressure:
-      - 1 bar
+      - 1.000000e+000 bar
     laminar-burning-velocity:
-      - 57.14 cm/s
+      - 5.714000e+001 cm/s
       - evaluated-standard-deviation: 1.07 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -50,9 +50,9 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 2 bar
+      - 2.000000e+000 bar
     laminar-burning-velocity:
-      - 51.67 cm/s
+      - 5.167000e+001 cm/s
       - evaluated-standard-deviation: 1.07 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -60,9 +60,9 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 3 bar
+      - 3.000000e+000 bar
     laminar-burning-velocity:
-      - 47.49 cm/s
+      - 4.749000e+001 cm/s
       - evaluated-standard-deviation: 1.07 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -70,9 +70,9 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 4 bar
+      - 4.000000e+000 bar
     laminar-burning-velocity:
-      - 43.81 cm/s
+      - 4.381000e+001 cm/s
       - evaluated-standard-deviation: 1.07 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -80,9 +80,9 @@ datapoints:
     temperature: *id001
     composition: *id002
   - pressure:
-      - 5 bar
+      - 5.000000e+000 bar
     laminar-burning-velocity:
-      - 41.19 cm/s
+      - 4.119000e+001 cm/s
       - evaluated-standard-deviation: 1.07 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

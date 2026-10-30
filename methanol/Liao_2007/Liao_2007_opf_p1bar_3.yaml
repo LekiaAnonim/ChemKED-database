@@ -146,7 +146,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.02'
         uncertainty-sourcetype: digitized

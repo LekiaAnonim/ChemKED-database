@@ -54,7 +54,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -84,7 +84,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.53 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -114,7 +114,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.14 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -144,7 +144,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.69 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -174,7 +174,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.22 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -204,7 +204,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 1.74 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -230,11 +230,11 @@ datapoints:
           amount:
             - 0.652778
     laminar-burning-velocity:
-      - 28.5 cm/s
+      - 28.50 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.42 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -264,7 +264,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.45 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
@@ -294,7 +294,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 2.22 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty

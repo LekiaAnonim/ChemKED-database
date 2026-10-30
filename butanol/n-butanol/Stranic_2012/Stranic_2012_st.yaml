@@ -75,7 +75,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 26.2 atm
+      - 26.20 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
@@ -111,7 +111,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 22.8 atm
+      - 22.80 atm
     composition: *id001
     ignition-type: *id002
   - temperature:

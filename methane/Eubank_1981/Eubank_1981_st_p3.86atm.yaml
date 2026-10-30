@@ -91,7 +91,7 @@ datapoints:
   - temperature:
       - 1619.81 K
     ignition-delay:
-      - 114.41 us
+      - 114.410 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -103,7 +103,7 @@ datapoints:
   - temperature:
       - 1599.27 K
     ignition-delay:
-      - 117.57 us
+      - 117.570 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -115,7 +115,7 @@ datapoints:
   - temperature:
       - 1493.52 K
     ignition-delay:
-      - 320.89 us
+      - 320.890 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -127,19 +127,19 @@ datapoints:
   - temperature:
       - 1506.86 K
     ignition-delay:
-      - 338.36 us
+      - 338.360 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 3.7 atm
+      - 3.70 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1454.66 K
     ignition-delay:
-      - 430.94 us
+      - 430.940 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -149,9 +149,9 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - temperature:
-      - 1459.8 K
+      - 1459.80 K
     ignition-delay:
-      - 562.71 us
+      - 562.710 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -163,7 +163,7 @@ datapoints:
   - temperature:
       - 1441.01 K
     ignition-delay:
-      - 610 us
+      - 610.000 us
       - evaluated-standard-deviation: '0.117'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

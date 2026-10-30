@@ -52,7 +52,7 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - pressure:
-      - 2.7 atm
+      - 2.700 atm
     ignition-delay:
       - 102 us
       - evaluated-standard-deviation: '0.2'

@@ -41,7 +41,7 @@ common-properties:
     type: d/dt max extrapolated
 datapoints:
   - pressure:
-      - 1.35 atm
+      - 1.350 atm
     ignition-delay:
       - 153 us
       - evaluated-standard-deviation: '0.22'
@@ -85,7 +85,7 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - pressure:
-      - 16.82 atm
+      - 16.820 atm
     ignition-delay:
       - 19 us
       - evaluated-standard-deviation: '0.22'

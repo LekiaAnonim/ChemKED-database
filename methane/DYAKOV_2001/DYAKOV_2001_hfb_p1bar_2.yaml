@@ -144,7 +144,7 @@ datapoints:
           amount:
             - 0.723
     laminar-burning-velocity:
-      - 31.6 cm/s
+      - 31.60 cm/s
       - evaluated-standard-deviation: 0.612643610528176 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -328,7 +328,7 @@ datapoints:
           amount:
             - 0.69961
     laminar-burning-velocity:
-      - 31 cm/s
+      - 31.00 cm/s
       - evaluated-standard-deviation: 0.612643610528176 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

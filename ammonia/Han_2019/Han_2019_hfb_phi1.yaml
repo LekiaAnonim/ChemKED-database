@@ -57,7 +57,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -88,7 +88,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.8 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -119,7 +119,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.7 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -150,7 +150,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.7 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -181,7 +181,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -212,7 +212,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -243,7 +243,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -274,7 +274,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -305,7 +305,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -336,7 +336,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -367,7 +367,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -398,7 +398,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -429,7 +429,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -460,7 +460,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -487,11 +487,11 @@ datapoints:
           amount:
             - 0.159456
     laminar-burning-velocity:
-      - 23 cm/s
+      - 23.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -522,7 +522,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -553,7 +553,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -584,7 +584,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -615,7 +615,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

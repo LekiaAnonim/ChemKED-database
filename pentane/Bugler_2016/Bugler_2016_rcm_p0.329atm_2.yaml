@@ -58,11 +58,11 @@ common-properties:
     type: d/dt second max
 datapoints:
   - pressure:
-      - 0.3258 atm
+      - 0.32580 atm
     temperature:
-      - 303 K
+      - 303.00 K
     ignition-delay:
-      - 6220 us
+      - 6.22E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -98,9 +98,9 @@ datapoints:
   - pressure:
       - 0.33072 atm
     temperature:
-      - 313 K
+      - 313.00 K
     ignition-delay:
-      - 4290 us
+      - 4.29E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -140,9 +140,9 @@ datapoints:
   - pressure:
       - 0.33083 atm
     temperature:
-      - 323 K
+      - 323.00 K
     ignition-delay:
-      - 3220 us
+      - 3.22E+03 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

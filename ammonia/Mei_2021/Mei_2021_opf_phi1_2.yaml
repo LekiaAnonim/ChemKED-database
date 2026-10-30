@@ -30,7 +30,7 @@ common-properties:
   pressure: &id002
     - 2 atm
   equivalence-ratio: &id003
-    - 1 dimensionless
+    - 1.0 dimensionless
 datapoints:
   - composition:
       kind: mole fraction
@@ -162,7 +162,7 @@ datapoints:
     laminar-burning-velocity:
       - 41.37 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1.5 cm/s
+        uncertainty: 1.50 cm/s
         uncertainty-sourcetype: reported
     temperature: *id001
     pressure: *id002
@@ -187,7 +187,7 @@ datapoints:
           amount:
             - 0.603591
     laminar-burning-velocity:
-      - 57.9 cm/s
+      - 57.90 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.84 cm/s
         uncertainty-sourcetype: reported

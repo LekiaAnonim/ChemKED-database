@@ -44,104 +44,104 @@ common-properties:
           - 0.785714
 datapoints:
   - pressure:
-      - 1 atm
+      - 1.0 atm
     laminar-burning-velocity:
       - 58.2 cm/s
       - uncertainty-type: absolute
-        uncertainty: 3 cm/s
+        uncertainty: 3.0 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 2 atm
+      - 2.0 atm
     laminar-burning-velocity:
       - 38.1 cm/s
       - uncertainty-type: absolute
         uncertainty: 2.8 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 3 atm
+      - 3.0 atm
     laminar-burning-velocity:
-      - 32 cm/s
+      - 32.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 2.5 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 4 atm
+      - 4.0 atm
     laminar-burning-velocity:
       - 24.2 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.9 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 5 atm
+      - 5.0 atm
     laminar-burning-velocity:
       - 19.7 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 6 atm
+      - 6.0 atm
     laminar-burning-velocity:
-      - 16 cm/s
+      - 16.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.6 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 7 atm
+      - 7.0 atm
     laminar-burning-velocity:
       - 12.5 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.5 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     temperature: *id001
     composition: *id002
   - pressure:
-      - 8 atm
+      - 8.0 atm
     laminar-burning-velocity:
       - 10.5 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.3 cm/s
         uncertainty-sourcetype: reported
-        evaluated-standard-deviation: 2 cm/s
+        evaluated-standard-deviation: 2.0 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty

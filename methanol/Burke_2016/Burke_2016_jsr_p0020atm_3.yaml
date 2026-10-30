@@ -24,9 +24,9 @@ apparatus:
   facility: ''
 common-properties:
   pressure: &id001
-    - 0020 atm
+    - 20 atm
   reactor-volume: &id002
-    - 0035 cm3
+    - 35 cm3
   residence-time: &id003
     - 1000 ms
   composition: &id004

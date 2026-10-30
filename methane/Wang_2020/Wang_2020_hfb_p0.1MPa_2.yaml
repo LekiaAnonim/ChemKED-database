@@ -32,7 +32,7 @@ common-properties:
   temperature: &id001
     - 298 K
   pressure: &id002
-    - 0.1 MPa
+    - 0.10 MPa
 datapoints:
   - composition:
       kind: mole fraction

@@ -31,7 +31,7 @@ common-properties:
   temperature: &id002
     - 298 K
   equivalence-ratio: &id003
-    - 1 dimensionless
+    - 1.0 dimensionless
 datapoints:
   - composition:
       kind: mole fraction
@@ -115,7 +115,7 @@ datapoints:
           amount:
             - 0.612567
     laminar-burning-velocity:
-      - 5.8 cm/s
+      - 5.80 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.3029 cm/s
         uncertainty-sourcetype: reported
@@ -177,7 +177,7 @@ datapoints:
           amount:
             - 0.607692
     laminar-burning-velocity:
-      - 6.7 cm/s
+      - 6.70 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.3849 cm/s
         uncertainty-sourcetype: reported
@@ -208,7 +208,7 @@ datapoints:
           amount:
             - 0.605153
     laminar-burning-velocity:
-      - 7.5 cm/s
+      - 7.50 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.3164 cm/s
         uncertainty-sourcetype: reported
@@ -239,7 +239,7 @@ datapoints:
           amount:
             - 0.602542
     laminar-burning-velocity:
-      - 8.3 cm/s
+      - 8.30 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.3994 cm/s
         uncertainty-sourcetype: reported
@@ -303,7 +303,7 @@ datapoints:
     laminar-burning-velocity:
       - 10.51 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.419 cm/s
+        uncertainty: 0.4190 cm/s
         uncertainty-sourcetype: reported
         evaluated-standard-deviation: 0.5 cm/s
         evaluated-standard-deviation-type: absolute
@@ -458,7 +458,7 @@ datapoints:
     laminar-burning-velocity:
       - 21.54 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.916 cm/s
+        uncertainty: 0.9160 cm/s
         uncertainty-sourcetype: reported
         evaluated-standard-deviation: 0.5 cm/s
         evaluated-standard-deviation-type: absolute
@@ -582,7 +582,7 @@ datapoints:
     laminar-burning-velocity:
       - 27.82 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.778 cm/s
+        uncertainty: 0.7780 cm/s
         uncertainty-sourcetype: reported
         evaluated-standard-deviation: 0.5 cm/s
         evaluated-standard-deviation-type: absolute

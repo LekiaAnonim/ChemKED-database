@@ -52,7 +52,7 @@ datapoints:
     temperature:
       - 296.9 K
     pressure:
-      - 758 Torr
+      - 758.0 Torr
     time-histories:
       - time:
           units: s

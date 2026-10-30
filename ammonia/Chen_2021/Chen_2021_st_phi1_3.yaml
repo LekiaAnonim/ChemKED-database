@@ -42,15 +42,15 @@ common-properties:
         amount:
           - 92.051
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   ignition-type: &id003
     target: OH*
     type: d/dt min extrapolated
 datapoints:
   - pressure:
-      - 1.2 atm
+      - 1.20 atm
     temperature:
-      - 1825.8 K
+      - 1825.80 K
     ignition-delay:
       - 222.48 us
       - evaluated-standard-deviation: '0.145598'
@@ -66,7 +66,7 @@ datapoints:
   - pressure:
       - 1.17 atm
     temperature:
-      - 1658.9 K
+      - 1658.90 K
     ignition-delay:
       - 369.07 us
       - evaluated-standard-deviation: '0.145598'
@@ -82,7 +82,7 @@ datapoints:
   - pressure:
       - 1.18 atm
     temperature:
-      - 1516.7 K
+      - 1516.70 K
     ignition-delay:
       - 583.54 us
       - evaluated-standard-deviation: '0.145598'
@@ -98,7 +98,7 @@ datapoints:
   - pressure:
       - 1.19 atm
     temperature:
-      - 1437.2 K
+      - 1437.20 K
     ignition-delay:
       - 856.29 us
       - evaluated-standard-deviation: '0.145598'
@@ -114,9 +114,9 @@ datapoints:
   - pressure:
       - 1.21 atm
     temperature:
-      - 1335.6 K
+      - 1335.60 K
     ignition-delay:
-      - 1110.1 us
+      - 1110.10 us
       - evaluated-standard-deviation: '0.145598'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -130,7 +130,7 @@ datapoints:
   - pressure:
       - 1.18 atm
     temperature:
-      - 1265.5 K
+      - 1265.50 K
     ignition-delay:
       - 1924.61 us
       - evaluated-standard-deviation: '0.145598'
@@ -146,7 +146,7 @@ datapoints:
   - pressure:
       - 1.17 atm
     temperature:
-      - 1199.4 K
+      - 1199.40 K
     ignition-delay:
       - 3300.77 us
       - evaluated-standard-deviation: '0.145598'

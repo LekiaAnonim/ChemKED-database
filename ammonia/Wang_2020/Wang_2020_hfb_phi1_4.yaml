@@ -31,7 +31,7 @@ common-properties:
   temperature: &id002
     - 298 K
   equivalence-ratio: &id003
-    - 1 dimensionless
+    - 1.0 dimensionless
 datapoints:
   - composition:
       kind: mole fraction
@@ -215,7 +215,7 @@ datapoints:
           amount:
             - 0.602542
     laminar-burning-velocity:
-      - 15.1 cm/s
+      - 15.10 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.7491 cm/s
         uncertainty-sourcetype: reported

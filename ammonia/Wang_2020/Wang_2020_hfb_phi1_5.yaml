@@ -31,7 +31,7 @@ common-properties:
   temperature: &id002
     - 298 K
   equivalence-ratio: &id003
-    - 1 dimensionless
+    - 1.0 dimensionless
 datapoints:
   - composition:
       kind: mole fraction
@@ -55,7 +55,7 @@ datapoints:
     laminar-burning-velocity:
       - 5.41 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.479 cm/s
+        uncertainty: 0.4790 cm/s
         uncertainty-sourcetype: reported
     pressure: *id001
     temperature: *id002
@@ -188,9 +188,9 @@ datapoints:
           amount:
             - 0.605153
     laminar-burning-velocity:
-      - 8.9 cm/s
+      - 8.90 cm/s
       - uncertainty-type: absolute
-        uncertainty: 0.559 cm/s
+        uncertainty: 0.5590 cm/s
         uncertainty-sourcetype: reported
     pressure: *id001
     temperature: *id002
@@ -296,7 +296,7 @@ datapoints:
           amount:
             - 0.594248
     laminar-burning-velocity:
-      - 14.5 cm/s
+      - 14.50 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.6714 cm/s
         uncertainty-sourcetype: reported
@@ -433,7 +433,7 @@ datapoints:
     laminar-burning-velocity:
       - 28.04 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1.104 cm/s
+        uncertainty: 1.1040 cm/s
         uncertainty-sourcetype: reported
     pressure: *id001
     temperature: *id002
@@ -487,7 +487,7 @@ datapoints:
     laminar-burning-velocity:
       - 33.43 cm/s
       - uncertainty-type: absolute
-        uncertainty: 1.511 cm/s
+        uncertainty: 1.5110 cm/s
         uncertainty-sourcetype: reported
     pressure: *id001
     temperature: *id002

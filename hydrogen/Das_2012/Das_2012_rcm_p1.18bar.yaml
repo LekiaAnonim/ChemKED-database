@@ -45,7 +45,7 @@ common-properties:
     type: d/dt max
 datapoints:
   - pressure:
-      - 1.178 bar
+      - 1.1780 bar
     temperature:
       - 410.85 K
     ignition-delay:

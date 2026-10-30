@@ -27,7 +27,7 @@ comments:
     O2.'
 common-properties:
   equivalence-ratio: &id001
-    - 1 dimensionless
+    - 1.00 dimensionless
   temperature: &id002
     - 298 K
     - uncertainty-type: absolute
@@ -58,7 +58,7 @@ datapoints:
     laminar-burning-velocity:
       - 12.9 cm/s
       - uncertainty-type: relative
-        uncertainty: '0.1'
+        uncertainty: '0.10'
         uncertainty-sourcetype: reported
     equivalence-ratio: *id001
     temperature: *id002
@@ -85,7 +85,7 @@ datapoints:
     laminar-burning-velocity:
       - 23.3 cm/s
       - uncertainty-type: relative
-        uncertainty: '0.1'
+        uncertainty: '0.10'
         uncertainty-sourcetype: reported
     equivalence-ratio: *id001
     temperature: *id002
@@ -112,7 +112,7 @@ datapoints:
     laminar-burning-velocity:
       - 42.9 cm/s
       - uncertainty-type: relative
-        uncertainty: '0.1'
+        uncertainty: '0.10'
         uncertainty-sourcetype: reported
     equivalence-ratio: *id001
     temperature: *id002

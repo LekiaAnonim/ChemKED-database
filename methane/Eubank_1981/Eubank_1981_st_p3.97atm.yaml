@@ -41,7 +41,7 @@ common-properties:
     type: d/dt max extrapolated
 datapoints:
   - temperature:
-      - 1686.3 K
+      - 1686.30 K
     ignition-delay:
       - 76.29 us
       - evaluated-standard-deviation: '0.1'
@@ -49,13 +49,13 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     pressure:
-      - 4.15 atm
+      - 4.150 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1614.58 K
     ignition-delay:
-      - 144.1 us
+      - 144.10 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -67,19 +67,19 @@ datapoints:
   - temperature:
       - 1596.56 K
     ignition-delay:
-      - 196.8 us
+      - 196.80 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     pressure:
-      - 3.93 atm
+      - 3.930 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1557.79 K
     ignition-delay:
-      - 254.6 us
+      - 254.60 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

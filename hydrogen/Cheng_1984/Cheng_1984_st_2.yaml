@@ -123,7 +123,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 2.84 atm
+      - 2.840 atm
     temperature:
       - 1351 K
     ignition-delay:
@@ -171,7 +171,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 2.41 atm
+      - 2.410 atm
     temperature:
       - 1278 K
     ignition-delay:
@@ -195,7 +195,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.87 atm
+      - 1.870 atm
     temperature:
       - 1151 K
     ignition-delay:
@@ -303,7 +303,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.5 atm
+      - 1.500 atm
     temperature:
       - 1121 K
     ignition-delay:
@@ -351,7 +351,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.62 atm
+      - 1.620 atm
     temperature:
       - 1243 K
     ignition-delay:
@@ -435,7 +435,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 2.02 atm
+      - 2.020 atm
     temperature:
       - 1075 K
     ignition-delay:
@@ -519,7 +519,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.96 atm
+      - 1.960 atm
     temperature:
       - 1183 K
     ignition-delay:
@@ -603,7 +603,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.75 atm
+      - 1.750 atm
     temperature:
       - 1397 K
     ignition-delay:
@@ -615,7 +615,7 @@ datapoints:
     composition: *id001
     ignition-type: *id002
   - pressure:
-      - 1.58 atm
+      - 1.580 atm
     temperature:
       - 1393 K
     ignition-delay:

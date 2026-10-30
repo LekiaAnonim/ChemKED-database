@@ -28,7 +28,7 @@ comments:
     is assumed.
 common-properties:
   equivalence-ratio: &id001
-    - 1 dimensionless
+    - 1.0 dimensionless
   temperature: &id002
     - 298 K
   pressure: &id003
@@ -54,7 +54,7 @@ datapoints:
           amount:
             - 0.617188
     laminar-burning-velocity:
-      - 4 cm/s
+      - 4.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.17 cm/s
         uncertainty-sourcetype: digitized

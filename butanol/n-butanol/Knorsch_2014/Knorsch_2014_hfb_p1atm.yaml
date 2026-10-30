@@ -11,7 +11,7 @@ reference:
     - name: Dmitrii Mamaikin
     - name: Lars Zigan
     - name: Michael Wensing
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2014
   volume: 28
   pages: 1446-1452
@@ -89,7 +89,7 @@ datapoints:
           amount:
             - 0.766956
     laminar-burning-velocity:
-      - 57.9 cm/s
+      - 57.90 cm/s
       - evaluated-standard-deviation: 1 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

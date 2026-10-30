@@ -50,7 +50,7 @@ datapoints:
           amount:
             - 0.646805
     equivalence-ratio:
-      - 0.8 dimensionless
+      - 0.80 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.03'
         uncertainty-sourcetype: reported
@@ -77,7 +77,7 @@ datapoints:
           amount:
             - 0.632395
     equivalence-ratio:
-      - 0.9 dimensionless
+      - 0.90 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.04'
         uncertainty-sourcetype: reported
@@ -104,7 +104,7 @@ datapoints:
           amount:
             - 0.618613
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.00 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.04'
         uncertainty-sourcetype: reported
@@ -131,7 +131,7 @@ datapoints:
           amount:
             - 0.605419
     equivalence-ratio:
-      - 1.1 dimensionless
+      - 1.10 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.04'
         uncertainty-sourcetype: reported
@@ -158,7 +158,7 @@ datapoints:
           amount:
             - 0.592776
     equivalence-ratio:
-      - 1.2 dimensionless
+      - 1.20 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.05'
         uncertainty-sourcetype: reported
@@ -185,7 +185,7 @@ datapoints:
           amount:
             - 0.58065
     equivalence-ratio:
-      - 1.3 dimensionless
+      - 1.30 dimensionless
       - uncertainty-type: absolute
         uncertainty: '0.05'
         uncertainty-sourcetype: reported

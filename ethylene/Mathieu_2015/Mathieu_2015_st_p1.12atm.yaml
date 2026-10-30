@@ -48,7 +48,7 @@ datapoints:
       - 1.19 atm
     ignition-delay:
       - 1509 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -60,7 +60,7 @@ datapoints:
       - 1.17 atm
     ignition-delay:
       - 821 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -72,7 +72,7 @@ datapoints:
       - 1.18 atm
     ignition-delay:
       - 392 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -84,7 +84,7 @@ datapoints:
       - 1.17 atm
     ignition-delay:
       - 227 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -96,7 +96,7 @@ datapoints:
       - 1.17 atm
     ignition-delay:
       - 135 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -108,7 +108,7 @@ datapoints:
       - 0.97 atm
     ignition-delay:
       - 137 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -120,7 +120,7 @@ datapoints:
       - 1.09 atm
     ignition-delay:
       - 119 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -132,7 +132,7 @@ datapoints:
       - 1.04 atm
     ignition-delay:
       - 66 us
-      - evaluated-standard-deviation: '0.14'
+      - evaluated-standard-deviation: '0.140'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

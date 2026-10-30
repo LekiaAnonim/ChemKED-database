@@ -11,7 +11,7 @@ reference:
     - name: E. J. K. Nilsson
     - name: S. Verhelst
     - name: A. A. Konnov
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2012
   volume: 26
   pages: 1557-1564
@@ -43,7 +43,7 @@ datapoints:
           amount:
             - 0.744029
     laminar-burning-velocity:
-      - 20 cm/s
+      - 20.0 cm/s
       - evaluated-standard-deviation: 2.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -124,7 +124,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:
@@ -193,7 +193,7 @@ datapoints:
           amount:
             - 0.695478
     laminar-burning-velocity:
-      - 44 cm/s
+      - 44.0 cm/s
       - evaluated-standard-deviation: 2.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -218,7 +218,7 @@ datapoints:
           amount:
             - 0.687995
     laminar-burning-velocity:
-      - 39 cm/s
+      - 39.0 cm/s
       - evaluated-standard-deviation: 2.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -243,7 +243,7 @@ datapoints:
           amount:
             - 0.680672
     laminar-burning-velocity:
-      - 33 cm/s
+      - 33.0 cm/s
       - evaluated-standard-deviation: 2.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

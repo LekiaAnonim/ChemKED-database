@@ -50,9 +50,9 @@ datapoints:
   - pressure:
       - 10.72 atm
     temperature:
-      - 1096 K
+      - 1096.00 K
     ignition-delay:
-      - 1283 us
+      - 1283.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -63,9 +63,9 @@ datapoints:
   - pressure:
       - 10.62 atm
     temperature:
-      - 1129 K
+      - 1129.00 K
     ignition-delay:
-      - 905 us
+      - 905.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -76,9 +76,9 @@ datapoints:
   - pressure:
       - 10.23 atm
     temperature:
-      - 1145 K
+      - 1145.00 K
     ignition-delay:
-      - 837 us
+      - 837.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -89,9 +89,9 @@ datapoints:
   - pressure:
       - 9.93 atm
     temperature:
-      - 1186 K
+      - 1186.00 K
     ignition-delay:
-      - 521 us
+      - 521.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -102,9 +102,9 @@ datapoints:
   - pressure:
       - 9.36 atm
     temperature:
-      - 1215 K
+      - 1215.00 K
     ignition-delay:
-      - 386 us
+      - 386.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -115,9 +115,9 @@ datapoints:
   - pressure:
       - 9.03 atm
     temperature:
-      - 1243 K
+      - 1243.00 K
     ignition-delay:
-      - 254 us
+      - 254.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -128,9 +128,9 @@ datapoints:
   - pressure:
       - 8.32 atm
     temperature:
-      - 1297 K
+      - 1297.00 K
     ignition-delay:
-      - 151 us
+      - 151.00 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

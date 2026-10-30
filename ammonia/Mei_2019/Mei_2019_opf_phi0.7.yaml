@@ -28,7 +28,7 @@ common-properties:
   temperature: &id001
     - 298 K
   pressure: &id002
-    - 1 atm
+    - 1.0 atm
   equivalence-ratio: &id003
     - 0.7 dimensionless
 datapoints:

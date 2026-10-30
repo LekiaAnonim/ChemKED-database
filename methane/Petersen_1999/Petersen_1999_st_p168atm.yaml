@@ -60,7 +60,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     pressure:
-      - 163 atm
+      - 163.0 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
@@ -72,7 +72,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: generic uncertainty
     pressure:
-      - 164 atm
+      - 164.0 atm
     composition: *id001
     ignition-type: *id002
 ...

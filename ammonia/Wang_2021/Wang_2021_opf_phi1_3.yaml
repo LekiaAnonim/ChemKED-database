@@ -31,7 +31,7 @@ common-properties:
   temperature: &id001
     - 360 K
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   composition: &id003
     kind: mole fraction
     species:
@@ -55,7 +55,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.61 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -69,7 +69,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.38 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
@@ -83,7 +83,7 @@ datapoints:
       - uncertainty-type: absolute
         uncertainty: 0.36 cm/s
         uncertainty-sourcetype: digitized
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

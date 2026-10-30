@@ -131,7 +131,7 @@ datapoints:
   - pressure:
       - 16.17 atm
     temperature:
-      - 416 K
+      - 416.0 K
     laminar-burning-velocity:
       - 37.11 cm/s
       - uncertainty-type: absolute
@@ -185,7 +185,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 16.8 atm
+      - 16.80 atm
     temperature:
       - 421.7 K
     laminar-burning-velocity:
@@ -203,7 +203,7 @@ datapoints:
     temperature:
       - 422.9 K
     laminar-burning-velocity:
-      - 37.6 cm/s
+      - 37.60 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -213,7 +213,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 17.1 atm
+      - 17.10 atm
     temperature:
       - 424.2 K
     laminar-burning-velocity:
@@ -245,7 +245,7 @@ datapoints:
     temperature:
       - 427.3 K
     laminar-burning-velocity:
-      - 37.9 cm/s
+      - 37.90 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -259,7 +259,7 @@ datapoints:
     temperature:
       - 428.7 K
     laminar-burning-velocity:
-      - 38 cm/s
+      - 38.00 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -273,7 +273,7 @@ datapoints:
     temperature:
       - 430.2 K
     laminar-burning-velocity:
-      - 38.1 cm/s
+      - 38.10 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -287,7 +287,7 @@ datapoints:
     temperature:
       - 431.6 K
     laminar-burning-velocity:
-      - 38.2 cm/s
+      - 38.20 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -299,7 +299,7 @@ datapoints:
   - pressure:
       - 18.12 atm
     temperature:
-      - 433 K
+      - 433.0 K
     laminar-burning-velocity:
       - 38.35 cm/s
       - uncertainty-type: absolute
@@ -355,7 +355,7 @@ datapoints:
   - pressure:
       - 18.85 atm
     temperature:
-      - 439 K
+      - 439.0 K
     laminar-burning-velocity:
       - 38.69 cm/s
       - uncertainty-type: absolute
@@ -383,7 +383,7 @@ datapoints:
   - pressure:
       - 19.23 atm
     temperature:
-      - 442 K
+      - 442.0 K
     laminar-burning-velocity:
       - 38.99 cm/s
       - uncertainty-type: absolute
@@ -451,7 +451,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 20.2 atm
+      - 20.20 atm
     temperature:
       - 449.5 K
     laminar-burning-velocity:
@@ -493,9 +493,9 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 20.8 atm
+      - 20.80 atm
     temperature:
-      - 454 K
+      - 454.0 K
     laminar-burning-velocity:
       - 39.88 cm/s
       - uncertainty-type: absolute
@@ -577,7 +577,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 22.1 atm
+      - 22.10 atm
     temperature:
       - 463.4 K
     laminar-burning-velocity:
@@ -593,7 +593,7 @@ datapoints:
   - pressure:
       - 22.33 atm
     temperature:
-      - 465 K
+      - 465.0 K
     laminar-burning-velocity:
       - 40.91 cm/s
       - uncertainty-type: absolute
@@ -679,7 +679,7 @@ datapoints:
     temperature:
       - 474.8 K
     laminar-burning-velocity:
-      - 41.6 cm/s
+      - 41.60 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -693,7 +693,7 @@ datapoints:
     temperature:
       - 476.5 K
     laminar-burning-velocity:
-      - 41.7 cm/s
+      - 41.70 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -705,7 +705,7 @@ datapoints:
   - pressure:
       - 24.24 atm
     temperature:
-      - 478 K
+      - 478.0 K
     laminar-burning-velocity:
       - 41.85 cm/s
       - uncertainty-type: absolute
@@ -735,7 +735,7 @@ datapoints:
     temperature:
       - 481.3 K
     laminar-burning-velocity:
-      - 42.1 cm/s
+      - 42.10 cm/s
       - uncertainty-type: absolute
         uncertainty: 1.98 cm/s
         uncertainty-sourcetype: estimated
@@ -747,7 +747,7 @@ datapoints:
   - pressure:
       - 25.01 atm
     temperature:
-      - 483 K
+      - 483.0 K
     laminar-burning-velocity:
       - 42.25 cm/s
       - uncertainty-type: absolute
@@ -885,7 +885,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     composition: *id001
   - pressure:
-      - 27.8 atm
+      - 27.80 atm
     temperature:
       - 500.5 K
     laminar-burning-velocity:
@@ -957,7 +957,7 @@ datapoints:
   - pressure:
       - 29.35 atm
     temperature:
-      - 510 K
+      - 510.0 K
     laminar-burning-velocity:
       - 44.57 cm/s
       - uncertainty-type: absolute

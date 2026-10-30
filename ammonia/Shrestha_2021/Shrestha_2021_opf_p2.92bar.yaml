@@ -65,11 +65,11 @@ datapoints:
     equivalence-ratio:
       - 1.1 dimensionless
     laminar-burning-velocity:
-      - 24.5 cm/s
+      - 24.50 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.87 cm/s
         uncertainty-sourcetype: calculated
-        evaluated-standard-deviation: 0.5 cm/s
+        evaluated-standard-deviation: 0.500 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty

@@ -29,7 +29,7 @@ common-properties:
   pressure: &id001
     - 0.1 MPa
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   composition: &id003
     kind: mole fraction
     species:

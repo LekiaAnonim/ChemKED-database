@@ -39,7 +39,7 @@ datapoints:
   - temperature:
       - 300 K
     laminar-burning-velocity:
-      - 41.7 cm/s
+      - 41.70 cm/s
       - evaluated-standard-deviation: 7.06 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

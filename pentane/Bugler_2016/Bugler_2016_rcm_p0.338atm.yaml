@@ -58,11 +58,11 @@ common-properties:
     type: d/dt max
 datapoints:
   - pressure:
-      - 0.3258 atm
+      - 0.32580 atm
     temperature:
-      - 303 K
+      - 303.00 K
     ignition-delay:
-      - 54900 us
+      - 5.49E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -98,9 +98,9 @@ datapoints:
   - pressure:
       - 0.33072 atm
     temperature:
-      - 313 K
+      - 313.00 K
     ignition-delay:
-      - 56600 us
+      - 5.66E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -140,9 +140,9 @@ datapoints:
   - pressure:
       - 0.33083 atm
     temperature:
-      - 323 K
+      - 323.00 K
     ignition-delay:
-      - 67200 us
+      - 6.72E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -178,9 +178,9 @@ datapoints:
   - pressure:
       - 0.32965 atm
     temperature:
-      - 333 K
+      - 333.00 K
     ignition-delay:
-      - 73700 us
+      - 7.37E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -216,9 +216,9 @@ datapoints:
   - pressure:
       - 0.33085 atm
     temperature:
-      - 343 K
+      - 343.00 K
     ignition-delay:
-      - 80500 us
+      - 8.05E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -253,9 +253,9 @@ datapoints:
   - pressure:
       - 0.33563 atm
     temperature:
-      - 353 K
+      - 353.00 K
     ignition-delay:
-      - 83700 us
+      - 8.37E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -291,9 +291,9 @@ datapoints:
   - pressure:
       - 0.34059 atm
     temperature:
-      - 363 K
+      - 363.00 K
     ignition-delay:
-      - 89000 us
+      - 8.90E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -330,9 +330,9 @@ datapoints:
   - pressure:
       - 0.33953 atm
     temperature:
-      - 373 K
+      - 373.00 K
     ignition-delay:
-      - 87300 us
+      - 8.73E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -372,9 +372,9 @@ datapoints:
   - pressure:
       - 0.33921 atm
     temperature:
-      - 383 K
+      - 383.00 K
     ignition-delay:
-      - 70200 us
+      - 7.02E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -411,9 +411,9 @@ datapoints:
   - pressure:
       - 0.34574 atm
     temperature:
-      - 398 K
+      - 398.00 K
     ignition-delay:
-      - 36900 us
+      - 3.69E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -451,9 +451,9 @@ datapoints:
   - pressure:
       - 0.35108 atm
     temperature:
-      - 413 K
+      - 413.00 K
     ignition-delay:
-      - 18200 us
+      - 1.82E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -491,9 +491,9 @@ datapoints:
   - pressure:
       - 0.35108 atm
     temperature:
-      - 418 K
+      - 418.00 K
     ignition-delay:
-      - 17700 us
+      - 1.77E+04 us
       - evaluated-standard-deviation: '0.1'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

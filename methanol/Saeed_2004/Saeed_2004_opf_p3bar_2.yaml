@@ -20,7 +20,7 @@ apparatus:
   facility: ''
 common-properties:
   pressure: &id001
-    - 3 bar
+    - 3.0 bar
   temperature: &id002
     - 425 K
 datapoints:
@@ -121,7 +121,7 @@ datapoints:
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:

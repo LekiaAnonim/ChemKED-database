@@ -21,7 +21,7 @@ common-properties:
   temperature: &id001
     - 350 K
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   composition: &id003
     kind: mole fraction
     species:

@@ -65,31 +65,31 @@ datapoints:
   - temperature:
       - 1726.6 K
     ignition-delay:
-      - 103.4 us
+      - 103.40 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 12.75 atm
+      - 12.750 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1692.7 K
     ignition-delay:
-      - 124.8 us
+      - 124.80 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 12.5 atm
+      - 12.500 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1658.9 K
     ignition-delay:
-      - 148 us
+      - 148.00 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -101,7 +101,7 @@ datapoints:
   - temperature:
       - 1633.8 K
     ignition-delay:
-      - 278.2 us
+      - 278.20 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -113,7 +113,7 @@ datapoints:
   - temperature:
       - 1605.9 K
     ignition-delay:
-      - 273.5 us
+      - 273.50 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -125,19 +125,19 @@ datapoints:
   - temperature:
       - 1615.5 K
     ignition-delay:
-      - 287.9 us
+      - 287.90 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 11.93 atm
+      - 11.930 atm
     composition: *id001
     ignition-type: *id002
   - temperature:
       - 1584.7 K
     ignition-delay:
-      - 391.3 us
+      - 391.30 us
       - evaluated-standard-deviation: '0.139'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

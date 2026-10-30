@@ -32,7 +32,7 @@ common-properties:
   temperature: &id001
     - 298 K
   pressure: &id002
-    - 0.1 MPa
+    - 0.10 MPa
 datapoints:
   - composition:
       kind: mole fraction
@@ -50,7 +50,7 @@ datapoints:
           amount:
             - 0.720299
     laminar-burning-velocity:
-      - 18.6 cm/s
+      - 18.60 cm/s
       - evaluated-standard-deviation: 1.12809711498506 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -96,7 +96,7 @@ datapoints:
           amount:
             - 0.705128
     laminar-burning-velocity:
-      - 36 cm/s
+      - 36.00 cm/s
       - evaluated-standard-deviation: 1.06594029504022 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -119,7 +119,7 @@ datapoints:
           amount:
             - 0.69778
     laminar-burning-velocity:
-      - 43 cm/s
+      - 43.00 cm/s
       - evaluated-standard-deviation: 1.0609612091718 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -142,7 +142,7 @@ datapoints:
           amount:
             - 0.690583
     laminar-burning-velocity:
-      - 47.9 cm/s
+      - 47.90 cm/s
       - evaluated-standard-deviation: 1.05960926599853 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -165,7 +165,7 @@ datapoints:
           amount:
             - 0.683533
     laminar-burning-velocity:
-      - 48.5 cm/s
+      - 48.50 cm/s
       - evaluated-standard-deviation: 1.06124668941047 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -188,7 +188,7 @@ datapoints:
           amount:
             - 0.676626
     laminar-burning-velocity:
-      - 45.2 cm/s
+      - 45.20 cm/s
       - evaluated-standard-deviation: 1.06415167519245 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -234,7 +234,7 @@ datapoints:
           amount:
             - 0.663221
     laminar-burning-velocity:
-      - 25.7 cm/s
+      - 25.70 cm/s
       - evaluated-standard-deviation: 1.0507247702407 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

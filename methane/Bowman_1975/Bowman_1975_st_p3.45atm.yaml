@@ -47,7 +47,7 @@ datapoints:
         evaluated-standard-deviation-method: combined from scatter and the uncertainty
           of conditions
     pressure:
-      - 3.43 atm
+      - 3.430 atm
     composition: *id001
     ignition-type: *id002
   - temperature:

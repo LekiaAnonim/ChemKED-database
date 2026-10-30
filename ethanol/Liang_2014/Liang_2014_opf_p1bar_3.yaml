@@ -12,7 +12,7 @@ reference:
     - name: Zhuang Xiong
     - name: Fan Dong
     - name: Rui Yang
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2014
   volume: 28
   pages: 4754-4761
@@ -75,7 +75,7 @@ datapoints:
           amount:
             - 0.04017
     laminar-burning-velocity:
-      - 37.1 cm/s
+      - 37.100 cm/s
       - evaluated-standard-deviation: 1.35 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -183,7 +183,7 @@ datapoints:
           amount:
             - 0.05763
     laminar-burning-velocity:
-      - 55.79 cm/s
+      - 55.790 cm/s
       - evaluated-standard-deviation: 1.35 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -237,7 +237,7 @@ datapoints:
           amount:
             - 0.06581
     laminar-burning-velocity:
-      - 40.99 cm/s
+      - 40.990 cm/s
       - evaluated-standard-deviation: 1.35 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated

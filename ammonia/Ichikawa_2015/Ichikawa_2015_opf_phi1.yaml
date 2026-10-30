@@ -28,7 +28,7 @@ comments:
     is assumed.
 common-properties:
   equivalence-ratio: &id001
-    - 1 dimensionless
+    - 1.0 dimensionless
   temperature: &id002
     - 298 K
   pressure: &id003

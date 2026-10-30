@@ -36,7 +36,7 @@ common-properties:
         amount:
           - 0.98
   equivalence-ratio: &id002
-    - 1 dimensionless
+    - 1.0 dimensionless
   ignition-type: &id003
     target: OH*
     type: d/dt min extrapolated

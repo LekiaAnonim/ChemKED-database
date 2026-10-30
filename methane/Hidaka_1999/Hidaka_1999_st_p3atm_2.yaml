@@ -66,7 +66,7 @@ datapoints:
   - temperature:
       - 1929.8 K
     ignition-delay:
-      - 166.24 us
+      - 166.240 us
       - evaluated-standard-deviation: '0.257'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -78,7 +78,7 @@ datapoints:
   - temperature:
       - 1882.2 K
     ignition-delay:
-      - 277.46 us
+      - 277.460 us
       - evaluated-standard-deviation: '0.26'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -90,7 +90,7 @@ datapoints:
   - temperature:
       - 1778.6 K
     ignition-delay:
-      - 455.84 us
+      - 455.840 us
       - evaluated-standard-deviation: '0.267'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -102,7 +102,7 @@ datapoints:
   - temperature:
       - 1781.5 K
     ignition-delay:
-      - 608.48 us
+      - 608.480 us
       - evaluated-standard-deviation: '0.267'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -114,7 +114,7 @@ datapoints:
   - temperature:
       - 1667.9 K
     ignition-delay:
-      - 1313 us
+      - 1313.000 us
       - evaluated-standard-deviation: '0.276'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated

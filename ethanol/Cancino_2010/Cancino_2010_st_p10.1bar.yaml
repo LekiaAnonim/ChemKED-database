@@ -10,7 +10,7 @@ reference:
     - name: M. Fikri
     - name: A. A. M. Oliveira
     - name: C. Schulz
-  journal: Energy &amp; Fuels
+  journal: Energy & Fuels
   year: 2010
   volume: 24
   pages: 2830-2840
@@ -64,7 +64,7 @@ datapoints:
         uncertainty: 1 K
         uncertainty-sourcetype: reported
     pressure:
-      - 10 bar
+      - 10.0 bar
     ignition-delay:
       - 140 us
       - evaluated-standard-deviation: '0.1'
@@ -80,7 +80,7 @@ datapoints:
         uncertainty: 2 K
         uncertainty-sourcetype: reported
     pressure:
-      - 11 bar
+      - 11.0 bar
     ignition-delay:
       - 252 us
       - evaluated-standard-deviation: '0.1'
@@ -96,7 +96,7 @@ datapoints:
         uncertainty: 3 K
         uncertainty-sourcetype: reported
     pressure:
-      - 9 bar
+      - 9.0 bar
     ignition-delay:
       - 409 us
       - evaluated-standard-deviation: '0.1'

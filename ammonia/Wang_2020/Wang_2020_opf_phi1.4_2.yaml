@@ -81,7 +81,7 @@ datapoints:
   - temperature:
       - 393 K
     laminar-burning-velocity:
-      - 82 cm/s
+      - 82.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 4.8 cm/s
         uncertainty-sourcetype: reported

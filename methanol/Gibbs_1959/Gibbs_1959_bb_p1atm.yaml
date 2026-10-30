@@ -8,7 +8,7 @@ reference:
   authors:
     - name: G. J. Gibbs
     - name: H. F. Calcote
-  journal: Journal of Chemical &amp; Engineering Data
+  journal: Journal of Chemical & Engineering Data
   year: 1959
   volume: 4
   pages: 226-237
@@ -73,7 +73,7 @@ datapoints:
           amount:
             - 0.002753
     laminar-burning-velocity:
-      - 42 cm/s
+      - 42.0 cm/s
       - evaluated-standard-deviation: 7.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
@@ -102,13 +102,13 @@ datapoints:
           amount:
             - 0.002719
     laminar-burning-velocity:
-      - 48 cm/s
+      - 48.0 cm/s
       - evaluated-standard-deviation: 7.01 cm/s
         evaluated-standard-deviation-type: absolute
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: combined from scatter and reported uncertainty
     equivalence-ratio:
-      - 1 dimensionless
+      - 1.0 dimensionless
     pressure: *id001
     temperature: *id002
   - composition:

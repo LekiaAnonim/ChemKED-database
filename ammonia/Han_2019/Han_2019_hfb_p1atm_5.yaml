@@ -81,7 +81,7 @@ datapoints:
           amount:
             - 0.163762
     laminar-burning-velocity:
-      - 7 cm/s
+      - 7.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.7 cm/s
         uncertainty-sourcetype: reported
@@ -471,7 +471,7 @@ datapoints:
           amount:
             - 0.159456
     laminar-burning-velocity:
-      - 17 cm/s
+      - 17.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.5 cm/s
         uncertainty-sourcetype: reported
@@ -741,7 +741,7 @@ datapoints:
           amount:
             - 0.155972
     laminar-burning-velocity:
-      - 30 cm/s
+      - 30.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.5 cm/s
         uncertainty-sourcetype: reported
@@ -981,7 +981,7 @@ datapoints:
           amount:
             - 0.152447
     laminar-burning-velocity:
-      - 41 cm/s
+      - 41.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.5 cm/s
         uncertainty-sourcetype: reported
@@ -1251,7 +1251,7 @@ datapoints:
           amount:
             - 0.149172
     laminar-burning-velocity:
-      - 39 cm/s
+      - 39.0 cm/s
       - uncertainty-type: absolute
         uncertainty: 0.4 cm/s
         uncertainty-sourcetype: reported

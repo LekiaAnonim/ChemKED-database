@@ -65,7 +65,7 @@ datapoints:
     temperature:
       - 324.88 K
     ignition-delay:
-      - 251 ms
+      - 251.0 ms
       - evaluated-standard-deviation: '0.191'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -112,7 +112,7 @@ datapoints:
     temperature:
       - 324.71 K
     ignition-delay:
-      - 281 ms
+      - 281.0 ms
       - evaluated-standard-deviation: '0.191'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -158,7 +158,7 @@ datapoints:
   - pressure:
       - 1.098 bar
     temperature:
-      - 344.6 K
+      - 344.60 K
     ignition-delay:
       - 23.5 ms
       - evaluated-standard-deviation: '0.191'
@@ -170,7 +170,7 @@ datapoints:
   - pressure:
       - 1.098 bar
     temperature:
-      - 354.6 K
+      - 354.60 K
     ignition-delay:
       - 11.1 ms
       - evaluated-standard-deviation: '0.191'

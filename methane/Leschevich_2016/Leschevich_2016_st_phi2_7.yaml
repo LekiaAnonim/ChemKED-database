@@ -23,7 +23,7 @@ apparatus:
   facility: ''
 common-properties:
   equivalence-ratio: &id001
-    - 2 dimensionless
+    - 2.0 dimensionless
   composition: &id002
     kind: mole fraction
     species:
@@ -97,7 +97,7 @@ datapoints:
     composition: *id002
     ignition-type: *id003
   - pressure:
-      - 1.4 MPa
+      - 1.40 MPa
     temperature:
       - 1216 K
     ignition-delay:
