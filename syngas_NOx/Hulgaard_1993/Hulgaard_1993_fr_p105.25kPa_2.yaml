@@ -97,31 +97,35 @@ datapoints:
           - - 1071.0
             - 0.06352
             - 0.00018999999999999998
-            - 5.7249859e-08
+            - 0.057249859
           - - 1169.0
             - 0.05815
             - 0.000178
-            - 5.7249859e-08
+            - 0.057249859
           - - 1219.0
             - 0.0558
             - 0.000158
-            - 1.0000000000000001e-11
+            - 1.0e-05
           - - 1269.0
             - 0.05359
             - 0.000128
-            - 1.0000000000000001e-11
+            - 1.0e-05
           - - 1316.0
             - 0.05166
             - 7.999999999999999e-05
-            - 1.0000000000000001e-11
+            - 1.0e-05
           - - 1369.0
             - 0.04966
             - 3.9e-05
-            - 1.0000000000000001e-11
+            - 1.0e-05
         uncertainty:
           - uncertainty-type: absolute
             uncertainty: 2.0e-06
             uncertainty-sourcetype: calculated
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     pressure: *id001
     composition: *id002
 ...

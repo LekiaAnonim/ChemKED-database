@@ -192,6 +192,11 @@ datapoints:
             evaluated-standard-deviation: 4.0e-06
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: statistical scatter
+    time-shift:
+      target: H2
+      type: relative decrease
+      amount:
+        - '0.8'
     pressure: *id001
     temperature: *id002
     composition: *id003

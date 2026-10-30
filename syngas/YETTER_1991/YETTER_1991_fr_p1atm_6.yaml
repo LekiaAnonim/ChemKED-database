@@ -89,6 +89,11 @@ datapoints:
             evaluated-standard-deviation: 7.672e-06
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: statistical scatter
+    time-shift:
+      target: CO
+      type: relative decrease
+      amount:
+        - '0.0700'
     temperature: *id001
     pressure: *id002
     composition: *id003

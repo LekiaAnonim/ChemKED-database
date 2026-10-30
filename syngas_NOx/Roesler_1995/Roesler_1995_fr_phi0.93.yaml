@@ -103,6 +103,9 @@ datapoints:
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: combined from scatter and reported
               uncertainty
+    time-shift:
+      target: CO
+      type: half decrease
     pressure: *id001
     temperature: *id002
     equivalence-ratio: *id003

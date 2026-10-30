@@ -528,6 +528,11 @@ datapoints:
             evaluated-standard-deviation: 1.67e-05
             evaluated-standard-deviation-sourcetype: reported
             evaluated-standard-deviation-method: reported uncertainty
+    time-shift:
+      target: C2H5OH
+      type: relative decrease
+      amount:
+        - '0.2100'
     pressure: *id001
     temperature: *id002
     composition: *id003

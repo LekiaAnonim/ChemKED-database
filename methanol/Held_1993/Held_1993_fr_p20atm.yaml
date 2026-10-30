@@ -469,6 +469,9 @@ datapoints:
             - 792.2
           - - 3.824
             - 791.0
+    time-shift:
+      target: CH3OH
+      type: half decrease
     pressure: *id001
     temperature: *id002
     composition: *id003

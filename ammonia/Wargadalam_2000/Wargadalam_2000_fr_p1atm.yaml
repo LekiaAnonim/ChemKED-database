@@ -60,35 +60,39 @@ datapoints:
         values:
           - - 0.388
             - 0.000245
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 0.367
             - 0.000245
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 0.348
             - 0.00021099999999999998
-            - 2.2999999999999998e-11
+            - 2.3e-05
           - - 0.331
             - 7.7e-05
-            - 8.0e-12
+            - 8.0e-06
           - - 0.316
             - 1.3e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.302
             - 4.9999999999999996e-06
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.289
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.277
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.266
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.1
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: 'NO'
         InChI: 1S/NO/c1-2
         quantity:
@@ -96,35 +100,39 @@ datapoints:
         values:
           - - 0.388
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.367
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.348
             - 1.1e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.331
             - 1.4e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 0.316
             - 2.9999999999999997e-05
-            - 6.0e-12
+            - 6.0e-06
           - - 0.302
             - 3.2e-05
-            - 6.999999999999999e-12
+            - 7.0e-06
           - - 0.289
             - 3.5e-05
-            - 6.999999999999999e-12
+            - 7.0e-06
           - - 0.277
             - 3.9999999999999996e-05
-            - 8.0e-12
+            - 8.0e-06
           - - 0.266
             - 5.6e-05
-            - 1.2e-11
+            - 1.2e-05
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.1
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     auxiliary-profiles:
       - type: temperature
         independent:
