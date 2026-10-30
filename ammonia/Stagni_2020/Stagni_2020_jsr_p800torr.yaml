@@ -65,44 +65,48 @@ datapoints:
         values:
           - - 500.0
             - 0.000504
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 600.0
             - 0.0005009999999999999
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 700.0
             - 0.0004969999999999999
-            - 2.5e-11
+            - 2.5e-05
           - - 750.0
             - 0.0004969999999999999
-            - 2.5e-11
+            - 2.5e-05
           - - 800.0
             - 0.000498
-            - 2.5e-11
+            - 2.5e-05
           - - 900.0
             - 0.000502
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 950.0
             - 0.000507
-            - 2.5999999999999997e-11
+            - 2.6e-05
           - - 1000.0
             - 0.000495
-            - 2.5e-11
+            - 2.5e-05
           - - 1050.0
             - 0.000491
-            - 2.5e-11
+            - 2.5e-05
           - - 1100.0
             - 0.000493
-            - 2.5e-11
+            - 2.5e-05
           - - 1150.0
             - 0.000439
-            - 2.1999999999999998e-11
+            - 2.2e-05
           - - 1200.0
             - 0.000274
-            - 1.3999999999999999e-11
+            - 1.4e-05
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.1
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     reactor-volume: *id001
     pressure: *id002
     residence-time: *id003

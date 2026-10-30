@@ -70,23 +70,27 @@ datapoints:
           - - 1473.0
             - 0.1901
             - 0.0
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 1573.0
             - 0.178
             - 0.006627999999999999
-            - 2.9154758999999998e-08
+            - 0.029154759
           - - 1673.0
             - 0.1674
             - 0.006627999999999999
-            - 2.9154758999999998e-08
+            - 0.029154759
           - - 1773.0
             - 0.1579
             - 0.006627999999999999
-            - 2.9154758999999998e-08
+            - 0.029154759
         uncertainty:
           - uncertainty-type: absolute
             uncertainty: 9.999999999999999e-06
             uncertainty-sourcetype: calculated
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: 'NO'
         InChI: 1S/NO/c1-2
         quantity:
@@ -114,6 +118,8 @@ datapoints:
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: combined from scatter and reported
               uncertainty
+            uncertainty-type: absolute
+            uncertainty-sourcetype: calculated
     pressure: *id001
     composition: *id002
 ...

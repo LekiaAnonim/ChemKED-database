@@ -95,6 +95,11 @@ datapoints:
             evaluated-standard-deviation: 0.0001
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: generic uncertainty
+    time-shift:
+      target: CO
+      type: relative decrease
+      amount:
+        - '0.8100'
     temperature: *id001
     pressure: *id002
     composition: *id003

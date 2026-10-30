@@ -133,6 +133,9 @@ datapoints:
             - 0.002597
           - - 159.82
             - 0.0021932
+    time-shift:
+      target: CO
+      type: half decrease
     temperature: *id001
     pressure: *id002
     composition: *id003

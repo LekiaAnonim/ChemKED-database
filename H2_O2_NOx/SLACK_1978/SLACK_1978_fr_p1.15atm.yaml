@@ -128,6 +128,11 @@ datapoints:
             evaluated-standard-deviation: 3.2999999999999996e-05
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: statistical scatter
+    time-shift:
+      target: NO2
+      type: relative decrease
+      amount:
+        - '0.88'
     pressure: *id001
     temperature: *id002
     composition: *id003

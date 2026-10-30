@@ -76,6 +76,9 @@ datapoints:
             evaluated-standard-deviation: 0.000316
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: generic uncertainty
+    time-shift:
+      target: H2
+      type: half decrease
     temperature: *id001
     pressure: *id002
     composition: *id003

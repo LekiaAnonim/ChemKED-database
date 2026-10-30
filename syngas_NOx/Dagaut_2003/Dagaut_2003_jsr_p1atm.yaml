@@ -91,6 +91,11 @@ datapoints:
           - - 1200.0
             - 0.0
             - 5.0e-06
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: CO
         InChI: 1S/CO/c1-2
         quantity:
@@ -147,6 +152,11 @@ datapoints:
           - - 1200.0
             - 0.00171
             - 0.107690034
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     composition: *id001
     pressure: *id002
     residence-time: *id003

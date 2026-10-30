@@ -89,6 +89,8 @@ datapoints:
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: combined from scatter and reported
               uncertainty
+            uncertainty-type: absolute
+            uncertainty-sourcetype: calculated
       - species-name: 'NO'
         InChI: 1S/NO/c1-2
         quantity:
@@ -116,6 +118,8 @@ datapoints:
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: combined from scatter and reported
               uncertainty
+            uncertainty-type: absolute
+            uncertainty-sourcetype: calculated
     pressure: *id001
     composition: *id002
 ...

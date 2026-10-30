@@ -119,6 +119,11 @@ datapoints:
           - - 1300.0
             - 0.000173
             - 8.0e-06
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: NH3
         InChI: 1S/H3N/h1H3
         quantity:
@@ -178,6 +183,11 @@ datapoints:
           - - 1300.0
             - 9.4e-05
             - 6.0e-06
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: H2O
         InChI: 1S/H2O/h1H2
         quantity:
@@ -237,6 +247,11 @@ datapoints:
           - - 1300.0
             - 0.003449
             - 0.000622
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: N2
         InChI: 1S/N2/c1-2
         quantity:
@@ -296,6 +311,11 @@ datapoints:
           - - 1300.0
             - 0.000948
             - 4.1e-05
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: O2
         InChI: 1S/O2/c1-2
         quantity:
@@ -355,6 +375,11 @@ datapoints:
           - - 1300.0
             - 4.1e-05
             - 5.0e-06
+        uncertainty:
+          - evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     reactor-volume: *id001
     pressure: *id002
     residence-time: *id003

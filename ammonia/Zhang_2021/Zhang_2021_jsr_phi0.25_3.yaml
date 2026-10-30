@@ -95,6 +95,10 @@ datapoints:
           - uncertainty-type: relative
             uncertainty: 0.1
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: NH3
         InChI: 1S/H3N/h1H3
         quantity:
@@ -134,6 +138,10 @@ datapoints:
           - uncertainty-type: relative
             uncertainty: 0.1
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: 'NO'
         InChI: 1S/NO/c1-2
         quantity:

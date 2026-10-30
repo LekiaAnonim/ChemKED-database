@@ -74,31 +74,35 @@ datapoints:
           - - 900.0
             - 1.309
             - 0.6112
-            - 0.000409
+            - 0.0409
           - - 950.0
             - 1.24
             - 0.5166
-            - 0.000346
+            - 0.0346
           - - 1000.0
             - 1.178
             - 0.5055
-            - 0.000339
+            - 0.0339
           - - 1100.0
             - 1.071
             - 0.3584
-            - 0.00024
+            - 0.024
           - - 1200.0
             - 0.982
             - 0.3584
-            - 0.00024
+            - 0.024
           - - 1300.0
             - 0.906
             - 0.3437
-            - 0.00023
+            - 0.023
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.01
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: CO
         InChI: 1S/CO/c1-2
         quantity:
@@ -107,31 +111,35 @@ datapoints:
           - - 900.0
             - 1.309
             - 0.00406
-            - 1.0399999999999999e-10
+            - 0.000104
           - - 950.0
             - 1.24
             - 0.002418
-            - 6.2e-11
+            - 6.2e-05
           - - 1000.0
             - 1.178
             - 0.000426
-            - 1.0999999999999999e-11
+            - 1.1e-05
           - - 1100.0
             - 1.071
             - 0.00015099999999999998
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 1200.0
             - 0.982
             - 0.00015099999999999998
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 1300.0
             - 0.906
             - 5.4999999999999995e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.01
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: H2
         InChI: 1S/H2/h1H
         quantity:
@@ -140,31 +148,35 @@ datapoints:
           - - 900.0
             - 1.309
             - 0.1481
-            - 3.8e-05
+            - 0.0038000000000000004
           - - 950.0
             - 1.24
             - 0.0494
-            - 1.3e-05
+            - 0.0013
           - - 1000.0
             - 1.178
             - 0.0001
-            - 5.0e-06
+            - 0.0005
           - - 1100.0
             - 1.071
             - 0.0001
-            - 5.0e-06
+            - 0.0005
           - - 1200.0
             - 0.982
             - 0.001
-            - 5.0e-06
+            - 0.0005
           - - 1300.0
             - 0.906
             - 0.001
-            - 5.0e-06
+            - 0.0005
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.01
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
       - species-name: N2O
         InChI: 1S/N2O/c1-2-3
         quantity:
@@ -205,31 +217,35 @@ datapoints:
           - - 900.0
             - 1.309
             - 2.8e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 950.0
             - 1.24
             - 3.7e-05
-            - 5.0000000000000005e-12
+            - 5.0e-06
           - - 1000.0
             - 1.178
             - 5.3e-05
-            - 8.0e-12
+            - 8.0e-06
           - - 1100.0
             - 1.071
             - 5.9e-05
-            - 9.0e-12
+            - 9.0e-06
           - - 1200.0
             - 0.982
             - 0.000102
-            - 1.5e-11
+            - 1.5e-05
           - - 1300.0
             - 0.906
             - 0.00018899999999999999
-            - 2.6999999999999997e-11
+            - 2.7e-05
         uncertainty:
           - uncertainty-type: relative
             uncertainty: 0.01
             uncertainty-sourcetype: reported
+            evaluated-standard-deviation-type: absolute
+            evaluated-standard-deviation-sourcetype: estimated
+            evaluated-standard-deviation-method: combined from scatter and reported
+              uncertainty
     composition: *id001
     pressure: *id002
     reactor-volume: *id003

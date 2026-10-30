@@ -242,6 +242,11 @@ datapoints:
             - 944.5
           - - 0.1682
             - 943.4
+    time-shift:
+      target: CH2O
+      type: relative decrease
+      amount:
+        - '0.71'
     pressure: *id001
     temperature: *id002
     composition: *id003

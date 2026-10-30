@@ -172,6 +172,11 @@ datapoints:
             evaluated-standard-deviation: 0.000278
             evaluated-standard-deviation-sourcetype: estimated
             evaluated-standard-deviation-method: generic uncertainty
+    time-shift:
+      target: CH2O
+      type: relative decrease
+      amount:
+        - '0.90'
     pressure: *id001
     temperature: *id002
     composition: *id003

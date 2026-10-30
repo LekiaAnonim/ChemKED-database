@@ -236,6 +236,9 @@ datapoints:
             - 994.5148
           - - 0.33632
             - 995.0693
+    time-shift:
+      target: H2
+      type: half decrease
     temperature: *id001
     pressure: *id002
     composition: *id003
