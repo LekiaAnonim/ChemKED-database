@@ -47,33 +47,33 @@ datapoints:
   - temperature:
       - 952 K
     ignition-delay:
-      - 2.94 ms
+      - 2.94000 ms
       - evaluated-standard-deviation: '0.16'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 10.8 bar
+      - 10.80 bar
     composition: *id001
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
       - 1006 K
     ignition-delay:
-      - 1.1944 ms
+      - 1.19440 ms
       - evaluated-standard-deviation: '0.16'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 14.9 bar
+      - 14.90 bar
     composition: *id001
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
       - 1054 K
     ignition-delay:
-      - 0.896 ms
+      - 0.89600 ms
       - evaluated-standard-deviation: '0.16'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
@@ -86,26 +86,26 @@ datapoints:
   - temperature:
       - 1132 K
     ignition-delay:
-      - 0.32 ms
+      - 0.32000 ms
       - evaluated-standard-deviation: '0.16'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 10.6 bar
+      - 10.60 bar
     composition: *id001
     pressure-rise: *id002
     ignition-type: *id003
   - temperature:
       - 1232 K
     ignition-delay:
-      - 0.0916 ms
+      - 0.09160 ms
       - evaluated-standard-deviation: '0.16'
         evaluated-standard-deviation-type: relative
         evaluated-standard-deviation-sourcetype: estimated
         evaluated-standard-deviation-method: statistical scatter
     pressure:
-      - 10.6 bar
+      - 10.60 bar
     composition: *id001
     pressure-rise: *id002
     ignition-type: *id003
