@@ -8772,4 +8772,4 @@ datapoints:
   - 4.12 ms
   - uncertainty-type: absolute
     uncertainty: 0.37 ms
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]

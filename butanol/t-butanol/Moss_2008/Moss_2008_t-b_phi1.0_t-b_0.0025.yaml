@@ -52,7 +52,7 @@ datapoints:
       - 3.84 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1460 kelvin
     ignition-delay:
@@ -61,7 +61,7 @@ datapoints:
       - 3.68 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1501 kelvin
     ignition-delay:
@@ -70,7 +70,7 @@ datapoints:
       - 3.46 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1549 kelvin
     ignition-delay:
@@ -79,7 +79,7 @@ datapoints:
       - 3.85 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1644 kelvin
     ignition-delay:
@@ -88,7 +88,7 @@ datapoints:
       - 3.88 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
   - temperature:
       - 1646 kelvin
     ignition-delay:
@@ -97,5 +97,5 @@ datapoints:
       - 3.75 bar
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1
+    equivalence-ratio: [1]
 ...

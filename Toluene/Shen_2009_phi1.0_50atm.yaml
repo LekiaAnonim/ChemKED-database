@@ -55,7 +55,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1041.0 kelvin
       - uncertainty-type: relative
@@ -70,7 +70,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1082.0 kelvin
       - uncertainty-type: relative
@@ -85,7 +85,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1085.0 kelvin
       - uncertainty-type: relative
@@ -100,7 +100,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1116.0 kelvin
       - uncertainty-type: relative
@@ -115,7 +115,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1117.0 kelvin
       - uncertainty-type: relative
@@ -130,7 +130,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1135.0 kelvin
       - uncertainty-type: relative
@@ -145,7 +145,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1218.0 kelvin
       - uncertainty-type: relative
@@ -160,7 +160,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1232.0 kelvin
       - uncertainty-type: relative
@@ -175,7 +175,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1256.0 kelvin
       - uncertainty-type: relative
@@ -190,7 +190,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1305.0 kelvin
       - uncertainty-type: relative
@@ -205,5 +205,5 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
 ...

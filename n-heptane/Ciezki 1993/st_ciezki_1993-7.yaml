@@ -48,7 +48,7 @@ datapoints:
   - 1064.7 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 560 us
@@ -57,7 +57,7 @@ datapoints:
   - 981.26 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 564 us
@@ -66,7 +66,7 @@ datapoints:
   - 942.63 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 552 us
@@ -75,7 +75,7 @@ datapoints:
   - 916.58 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 395 us
@@ -84,7 +84,7 @@ datapoints:
   - 866.68 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 455 us
@@ -93,4 +93,4 @@ datapoints:
   - 813.4 kelvin
   pressure:
   - 42 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]

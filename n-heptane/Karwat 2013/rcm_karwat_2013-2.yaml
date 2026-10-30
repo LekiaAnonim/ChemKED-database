@@ -50,4 +50,4 @@ datapoints:
   - 9.53 atm
   temperature:
   - 660. K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]

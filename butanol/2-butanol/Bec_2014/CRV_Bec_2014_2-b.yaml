@@ -48,7 +48,7 @@ datapoints:
           amount:
             - 0.854
     ignition-type: *ign
-    equivalence-ratio: 1.54
+    equivalence-ratio: [1.54]
   - temperature:
       - 868.0 K
     ignition-delay:
@@ -71,7 +71,7 @@ datapoints:
           amount:
             - 0.857
     ignition-type: *ign
-    equivalence-ratio: 1.68
+    equivalence-ratio: [1.68]
   - temperature:
       - 832.0 K
     ignition-delay:
@@ -94,7 +94,7 @@ datapoints:
           amount:
             - 0.859
     ignition-type: *ign
-    equivalence-ratio: 1.71
+    equivalence-ratio: [1.71]
   - temperature:
       - 864.0 K
     ignition-delay:
@@ -117,7 +117,7 @@ datapoints:
           amount:
             - 0.841
     ignition-type: *ign
-    equivalence-ratio: 1.71
+    equivalence-ratio: [1.71]
   - temperature:
       - 926.0 K
     ignition-delay:
@@ -140,7 +140,7 @@ datapoints:
           amount:
             - 0.809
     ignition-type: *ign
-    equivalence-ratio: 1.55
+    equivalence-ratio: [1.55]
   - temperature:
       - 908.0 K
     ignition-delay:
@@ -163,7 +163,7 @@ datapoints:
           amount:
             - 0.825
     ignition-type: *ign
-    equivalence-ratio: 1.51
+    equivalence-ratio: [1.51]
   - temperature:
       - 954.0 K
     ignition-delay:
@@ -186,7 +186,7 @@ datapoints:
           amount:
             - 0.809
     ignition-type: *ign
-    equivalence-ratio: 1.25
+    equivalence-ratio: [1.25]
   - temperature:
       - 1062.0 K
     ignition-delay:
@@ -209,7 +209,7 @@ datapoints:
           amount:
             - 0.76
     ignition-type: *ign
-    equivalence-ratio: 1.08
+    equivalence-ratio: [1.08]
   - temperature:
       - 1019.0 K
     ignition-delay:
@@ -232,7 +232,7 @@ datapoints:
           amount:
             - 0.783
     ignition-type: *ign
-    equivalence-ratio: 1.04
+    equivalence-ratio: [1.04]
   - temperature:
       - 1043.0 K
     ignition-delay:
@@ -255,7 +255,7 @@ datapoints:
           amount:
             - 0.791
     ignition-type: *ign
-    equivalence-ratio: 1.08
+    equivalence-ratio: [1.08]
   - temperature:
       - 1020.0 K
     ignition-delay:
@@ -278,7 +278,7 @@ datapoints:
           amount:
             - 0.771
     ignition-type: *ign
-    equivalence-ratio: 1.21
+    equivalence-ratio: [1.21]
   - temperature:
       - 923.0 K
     ignition-delay:
@@ -301,7 +301,7 @@ datapoints:
           amount:
             - 0.83
     ignition-type: *ign
-    equivalence-ratio: 1.52
+    equivalence-ratio: [1.52]
   - temperature:
       - 918.0 K
     ignition-delay:
@@ -324,5 +324,5 @@ datapoints:
           amount:
             - 0.833
     ignition-type: *ign
-    equivalence-ratio: 1.49
+    equivalence-ratio: [1.49]
 ...

@@ -52,7 +52,7 @@ datapoints:
       - 54.3 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 990.0 kelvin
       - uncertainty-type: relative
@@ -65,7 +65,7 @@ datapoints:
       - 50.5 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1005.0 kelvin
       - uncertainty-type: relative
@@ -78,7 +78,7 @@ datapoints:
       - 50.4 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1068.0 kelvin
       - uncertainty-type: relative
@@ -91,7 +91,7 @@ datapoints:
       - 48.0 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1111.0 kelvin
       - uncertainty-type: relative
@@ -104,7 +104,7 @@ datapoints:
       - 46.7 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1166.0 kelvin
       - uncertainty-type: relative
@@ -117,7 +117,7 @@ datapoints:
       - 44.6 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1179.0 kelvin
       - uncertainty-type: relative
@@ -130,7 +130,7 @@ datapoints:
       - 41.5 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1183.0 kelvin
       - uncertainty-type: relative
@@ -143,7 +143,7 @@ datapoints:
       - 46.2 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
   - temperature:
       - 1242.0 kelvin
       - uncertainty-type: relative
@@ -156,5 +156,5 @@ datapoints:
       - 42.4 atm
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 1.0
+    equivalence-ratio: [1.0]
 ...

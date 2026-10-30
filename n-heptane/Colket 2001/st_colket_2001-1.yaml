@@ -48,7 +48,7 @@ datapoints:
   - 7.7200e+00 atm
   temperature:
   - 1.3930e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 3.4500e+02 us
@@ -57,7 +57,7 @@ datapoints:
   - 7.7800e+00 atm
   temperature:
   - 1.2990e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 6.3100e+02 us
@@ -66,7 +66,7 @@ datapoints:
   - 7.0400e+00 atm
   temperature:
   - 1.2350e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 3.4800e+02 us
@@ -75,7 +75,7 @@ datapoints:
   - 6.3800e+00 atm
   temperature:
   - 1.2990e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1.3400e+02 us
@@ -84,7 +84,7 @@ datapoints:
   - 7.5300e+00 atm
   temperature:
   - 1.3720e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 6.7800e+02 us
@@ -93,7 +93,7 @@ datapoints:
   - 6.0800e+00 atm
   temperature:
   - 1.2360e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1.4800e+02 us
@@ -102,7 +102,7 @@ datapoints:
   - 7.3500e+00 atm
   temperature:
   - 1.3400e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 2.1100e+02 us
@@ -111,7 +111,7 @@ datapoints:
   - 6.6300e+00 atm
   temperature:
   - 1.3280e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 8.9000e+01 us
@@ -120,7 +120,7 @@ datapoints:
   - 6.9400e+00 atm
   temperature:
   - 1.3950e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 4.1700e+02 us
@@ -129,7 +129,7 @@ datapoints:
   - 4.8800e+00 atm
   temperature:
   - 1.2890e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1.7600e+02 us
@@ -138,7 +138,7 @@ datapoints:
   - 5.5300e+00 atm
   temperature:
   - 1.3830e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1.1400e+02 us
@@ -147,7 +147,7 @@ datapoints:
   - 6.0900e+00 atm
   temperature:
   - 1.4030e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 2.7200e+02 us
@@ -156,7 +156,7 @@ datapoints:
   - 5.5000e+00 atm
   temperature:
   - 1.3340e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 3.8400e+02 us
@@ -165,7 +165,7 @@ datapoints:
   - 5.1300e+00 atm
   temperature:
   - 1.3040e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 7.7300e+02 us
@@ -174,7 +174,7 @@ datapoints:
   - 4.6200e+00 atm
   temperature:
   - 1.2290e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 3.4200e+02 us
@@ -183,7 +183,7 @@ datapoints:
   - 5.8700e+00 atm
   temperature:
   - 1.3440e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 8.3200e+02 us
@@ -192,7 +192,7 @@ datapoints:
   - 4.8300e+00 atm
   temperature:
   - 1.2380e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 8.4400e+02 us
@@ -201,7 +201,7 @@ datapoints:
   - 4.3600e+00 atm
   temperature:
   - 1.2230e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 5.0400e+02 us
@@ -210,7 +210,7 @@ datapoints:
   - 4.8500e+00 atm
   temperature:
   - 1.2970e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1.7600e+02 us
@@ -219,7 +219,7 @@ datapoints:
   - 5.6300e+00 atm
   temperature:
   - 1.3670e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 4.9300e+02 us
@@ -228,6 +228,6 @@ datapoints:
   - 5.4400e+00 atm
   temperature:
   - 1.2900e+03 K
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 
 

@@ -8708,4 +8708,4 @@ datapoints:
   - 9.18 ms
   - uncertainty-type: absolute
     uncertainty: 0.1 ms
-  equivalence-ratio: 0.25
+  equivalence-ratio: [0.25]

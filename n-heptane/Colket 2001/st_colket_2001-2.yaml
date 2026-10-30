@@ -48,7 +48,7 @@ datapoints:
   - 7.7200e+00 atm
   temperature:
   - 1.3930e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.2300e+02 us
@@ -57,7 +57,7 @@ datapoints:
   - 7.2200e+00 atm
   temperature:
   - 1.4270e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.4200e+02 us
@@ -66,7 +66,7 @@ datapoints:
   - 6.4500e+00 atm
   temperature:
   - 1.3320e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.5500e+02 us
@@ -75,7 +75,7 @@ datapoints:
   - 7.0800e+00 atm
   temperature:
   - 1.4130e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.7600e+02 us
@@ -84,7 +84,7 @@ datapoints:
   - 6.9300e+00 atm
   temperature:
   - 1.3870e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 7.9700e+02 us
@@ -93,7 +93,7 @@ datapoints:
   - 5.7700e+00 atm
   temperature:
   - 1.2800e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.5600e+02 us
@@ -102,7 +102,7 @@ datapoints:
   - 5.8300e+00 atm
   temperature:
   - 1.3450e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.3100e+02 us
@@ -111,7 +111,7 @@ datapoints:
   - 4.5100e+00 atm
   temperature:
   - 1.4060e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 5.6800e+02 us
@@ -120,7 +120,7 @@ datapoints:
   - 4.1600e+00 atm
   temperature:
   - 1.3260e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 5.1900e+02 us
@@ -129,7 +129,7 @@ datapoints:
   - 4.4600e+00 atm
   temperature:
   - 1.3560e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 5.0000e+02 us
@@ -138,5 +138,5 @@ datapoints:
   - 4.1000e+00 atm
   temperature:
   - 1.3480e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 

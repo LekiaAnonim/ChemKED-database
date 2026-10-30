@@ -49,7 +49,7 @@ datapoints:
   - 7.99 bar
   temperature:
   - 718 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.2 ms
@@ -60,7 +60,7 @@ datapoints:
   - 8.21 bar
   temperature:
   - 729 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.4 ms
@@ -71,7 +71,7 @@ datapoints:
   - 8.46 bar
   temperature:
   - 749 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.66 ms
@@ -82,7 +82,7 @@ datapoints:
   - 8.67 bar
   temperature:
   - 769 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.6 ms
@@ -93,7 +93,7 @@ datapoints:
   - 8.91 bar
   temperature:
   - 782 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.86 ms
@@ -104,4 +104,4 @@ datapoints:
   - 9.16 bar
   temperature:
   - 800 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]

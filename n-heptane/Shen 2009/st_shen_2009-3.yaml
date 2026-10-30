@@ -58,7 +58,7 @@ datapoints:
     uncertainty: 0.02
   pressure-rise:
   - 0.02 1/ms
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 1027 us
@@ -75,7 +75,7 @@ datapoints:
     uncertainty: 0.02
   pressure-rise:
   - 0.02 1/ms
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 692 us
@@ -92,7 +92,7 @@ datapoints:
     uncertainty: 0.02
   pressure-rise:
   - 0.02 1/ms
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 243 us
@@ -109,7 +109,7 @@ datapoints:
     uncertainty: 0.02
   pressure-rise:
   - 0.02 1/ms
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]
 - composition: *id001
   ignition-delay:
   - 130 us
@@ -126,4 +126,4 @@ datapoints:
     uncertainty: 0.02
   pressure-rise:
   - 0.02 1/ms
-  equivalence-ratio: 0.5
+  equivalence-ratio: [0.5]

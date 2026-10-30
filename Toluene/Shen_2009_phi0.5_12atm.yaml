@@ -55,7 +55,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1153.0 kelvin
       - uncertainty-type: relative
@@ -70,7 +70,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1186.0 kelvin
       - uncertainty-type: relative
@@ -85,7 +85,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1188.0 kelvin
       - uncertainty-type: relative
@@ -100,7 +100,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1200.0 kelvin
       - uncertainty-type: relative
@@ -115,7 +115,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1220.0 kelvin
       - uncertainty-type: relative
@@ -130,7 +130,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1226.0 kelvin
       - uncertainty-type: relative
@@ -145,7 +145,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1299.0 kelvin
       - uncertainty-type: relative
@@ -160,7 +160,7 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
   - temperature:
       - 1320.0 kelvin
       - uncertainty-type: relative
@@ -175,5 +175,5 @@ datapoints:
         uncertainty: 0.015
     composition: *comp
     ignition-type: *ign
-    equivalence-ratio: 0.5
+    equivalence-ratio: [0.5]
 ...

@@ -61,7 +61,7 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 0.6672 ms
@@ -74,7 +74,7 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 0.4128 ms
@@ -87,7 +87,7 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 0.25297 ms
@@ -100,7 +100,7 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 0.149796 ms
@@ -113,7 +113,7 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]
 - composition: *id001
   ignition-delay:
   - 0.090997 ms
@@ -126,4 +126,4 @@ datapoints:
   - 15 bar
   - uncertainty-type: absolute
     uncertainty: 0.0015 bar
-  equivalence-ratio: 1
+  equivalence-ratio: [1]

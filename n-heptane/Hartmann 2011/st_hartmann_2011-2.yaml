@@ -54,7 +54,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 6.9200e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.6960e+03 us
@@ -65,7 +65,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 6.9500e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.9750e+03 us
@@ -76,7 +76,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 7.0500e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.0080e+03 us
@@ -87,7 +87,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 7.3500e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 6.8000e+02 us
@@ -98,7 +98,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 7.6700e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 6.3200e+02 us
@@ -109,7 +109,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 7.6900e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.7600e+02 us
@@ -120,7 +120,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 8.2300e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.8600e+02 us
@@ -131,7 +131,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 8.3600e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.1100e+02 us
@@ -142,7 +142,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 8.4100e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.2000e+02 us
@@ -153,7 +153,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 8.8000e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.0800e+02 us
@@ -164,7 +164,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 9.3300e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.8800e+02 us
@@ -175,7 +175,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 9.3700e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.8300e+02 us
@@ -186,7 +186,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 9.7000e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 4.3200e+02 us
@@ -197,7 +197,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 9.8400e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.9400e+02 us
@@ -208,7 +208,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 9.9000e+02 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.6400e+02 us
@@ -219,7 +219,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.0300e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 3.1900e+02 us
@@ -230,7 +230,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.0320e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.9700e+02 us
@@ -241,7 +241,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.0400e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.1800e+02 us
@@ -252,7 +252,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.0720e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.4000e+01 us
@@ -263,7 +263,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.2460e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 2.2000e+01 us
@@ -274,7 +274,7 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.2490e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
 - composition: *id001
   ignition-delay:
   - 1.1000e+01 us
@@ -285,4 +285,4 @@ datapoints:
     uncertainty: 2 bar
   temperature:
   - 1.2640e+03 K
-  equivalence-ratio: 1.0
+  equivalence-ratio: [1.0]
