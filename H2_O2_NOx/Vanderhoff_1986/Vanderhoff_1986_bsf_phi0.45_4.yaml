@@ -31,13 +31,16 @@ comments:
     value of 298.15 K the difference would be 1.3%. Pressure is 101325 Pa.
   - The experimental temperature was estimated with linear interpolation based on
     Fig. 2. (a) squere
+  - 'Pressure corrected from 1 torr to 1 atm: x60400021.xml gives 1 Torr, but its own comment
+    says the pressure is 101325 Pa and the 11 other ReSpecTh files of this paper (x60400018-x60400029)
+    give 1 atm.'
 common-properties:
   equivalence-ratio: &id001
     - 0.45 dimensionless
   temperature: &id002
     - 300 K
   pressure: &id003
-    - 1 torr
+    - 1 atm
   flow-rate: &id004
     - 0.3569 kg * m**-2 * s**-1
   composition: &id005
