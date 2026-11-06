@@ -2,7 +2,7 @@ file-authors:
 - name: Bryan W. Weber
   ORCID: 0000-0003-0815-9270
 file-version: 0
-chemked-version: 0.3.0
+chemked-version: 0.4.1
 reference:
   authors:
   - name: Bryan W. Weber
@@ -8716,14 +8716,15 @@ datapoints:
   - 348 kelvin
   pressure:
   - 1.8116 bar
-  compressed-temperature:
-  - 854 kelvin
-  - uncertainty-type: relative
-    uncertainty: 0.01
-  compression-time:
-  - 33.0 ms
-  compressed-pressure:
-  - 29.98 bar
+  rcm-data:
+    compressed-temperature:
+    - 854 kelvin
+    - uncertainty-type: relative
+      uncertainty: 0.01
+    compression-time:
+    - 33.0 ms
+    compressed-pressure:
+    - 29.98 bar
   ignition-delay:
   - 29.7 ms
   - uncertainty-type: absolute
